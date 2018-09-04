@@ -1,0 +1,11 @@
+{
+	"id": "com.webos.app.test.youtube",
+	"title": "Youtube",
+	"vendor": "LG Silicon Valley Labs",
+	"type": "web",
+	"version": "0.0.1",
+	"main": "index.html",
+	"icon": "icon.png",
+	"iconColor":"#E42E28",
+	"uiRevision": 2
+}
