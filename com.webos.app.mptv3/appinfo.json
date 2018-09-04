@@ -1,0 +1,11 @@
+{
+	"id": "com.webos.app.mptv3",
+	"title": "TV3",
+	"vendor": "Suaji",
+	"type": "web",
+	"version": "0.0.1",
+	"main": "index.html",
+	"icon": "icon.png",
+	"iconColor":"#E42E28",
+	"uiRevision": 2
+}

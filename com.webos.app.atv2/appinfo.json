@@ -1,0 +1,11 @@
+{
+	"id": "com.webos.app.atv2",
+	"title": "TV2",
+	"vendor": "Suaji",
+	"type": "web",
+	"version": "0.0.1",
+	"main": "index.html",
+	"icon": "icon.png",
+	"iconColor":"#E42E28",
+	"uiRevision": 2
+}
