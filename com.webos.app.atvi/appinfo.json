@@ -1,7 +1,7 @@
 {
 	"id": "com.webos.app.atvi",
 	"title": "TVi",
-	"vendor": "Suaji",
+	"vendor": "suaji",
 	"type": "web",
 	"version": "0.0.1",
 	"main": "index.html",

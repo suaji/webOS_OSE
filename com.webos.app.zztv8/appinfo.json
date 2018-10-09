@@ -1,7 +1,7 @@
 {
-	"id": "com.webos.app.mptv3",
-	"title": "TV8",
-	"vendor": "suaji",
+	"id": "com.webos.app.zztv8",
+	"title": "8TV DailyMotion",
+	"vendor": "testing",
 	"type": "web",
 	"version": "0.0.1",
 	"main": "index.html",

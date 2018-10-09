@@ -17,7 +17,7 @@
     {
         var video = document.getElementById('video');
         var hls = new Hls();
-        hls.loadSource('http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8');
+        hls.loadSource('https://rtm-live-stream2.glueapi.io/smil:rtmch007/playlist.m3u8');
         hls.attachMedia(video);
         hls.on(Hls.Events.MANIFEST_PARSED,function()
         {
@@ -26,7 +26,7 @@
     }
     else if (video.canPlayType('application/vnd.apple.mpegurl'))
     {
-        video.src = 'http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8';
+        video.src = 'https://rtm-live-stream2.glueapi.io/smil:rtmch007/playlist.m3u8';
         video.addEventListener('canplay',function()
         {
             video.play();

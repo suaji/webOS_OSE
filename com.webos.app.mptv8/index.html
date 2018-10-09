@@ -9,20 +9,30 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
 	</head>
 	<body>
-	
-	<script src="https://api.dmcdn.net/all.js"></script>
-	<div id="player"></div>
-	<script>
-	var player = DM.player(document.getElementById("player"), {
-    video: "x6sfcmb",
-    width: "1280",
-    height: "720",
-	params: {
-        autoplay: true,
-        mute: true
+		
+	<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <video id="video" width="100%" height="100%" controls></video>
+    <script>
+    if(Hls.isSupported())
+    {
+        var video = document.getElementById('video');
+        var hls = new Hls();
+        hls.loadSource('http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8');
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED,function()
+        {
+            video.play();
+        });
     }
-	});
-	</script>
-	
+    else if (video.canPlayType('application/vnd.apple.mpegurl'))
+    {
+        video.src = 'http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8';
+        video.addEventListener('canplay',function()
+        {
+            video.play();
+        });
+    }
+    </script>
+		
 	</body>
 </html>
