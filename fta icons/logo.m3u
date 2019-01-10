@@ -22,16 +22,19 @@ http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
-http://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf6pLSn6wdk9ZF6cnIDKO58)/dm/3/x6qp375/s/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbRy-qaHeYrQ2bm4EJvFB5w)/dm/3/x6qp375/s/live-0.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7
-http://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHe0AbfZ1Z-ddjT0FT-KoaQo)/dm/3/x6qp6ou/live-0.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU0usZkaqH_ScHdLJeuZhDU)/dm/3/x6qp6ou/live.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tva_webos.jpg" group-title="MALAYSIA",8TV
-http://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSwWglqc0-grVThEyVAJMD0)/dm/3/x6qud17/s/live-3.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUHFinLmA6Tmnsv74r--_ec)/dm/3/x6qud17/s/live-3.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv9a_webos.jpg" group-title="MALAYSIA",TV9
-http://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQ7QgWvx-fW-RPkNbk231PY)/dm/3/x6qqja6/live.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQV2MOFRn0QdLNlnHF3nwOM)/dm/3/x6qqja6/live.m3u8
+
+#EXTINF:0, tvg-logo="androidappsapk.co/300/2/2/9/com.mediaprima.dramasangat.png" group-title="MALAYSIA",DRAMA SANGAT
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0h5i3tkJ3Oghxq0mMq8hs3c)/dm/3/x6zvnex/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg" group-title="MALAYSIA", HELLO TV
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
@@ -211,87 +214,6 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
 #EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="SPORTS", FOX SPORTS 3 FHD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
 
-#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS 1 HQ
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/447.m3u8
-
-#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS 2 HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/3.m3u8
-
-#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS 3 HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/4.m3u8
-
-#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS 4 HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/630.m3u8
-
-#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS 5 HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/33.m3u8
-
-#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS MAX 1
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/4553.m3u8
-
-#EXTINF:0 group-title="SPORTS",US: BEIN SPORTS MAX 2
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/4557.m3u8
-
-#EXTINF:0 group-title="SPORTS",US: SKY SPORT 1 FHD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/159.m3u8
-
-#EXTINF:0 group-title="SPORTS",US: S SPOR 1 FHD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/9686.m3u8
-
-#EXTINF:0 group-title="SPORTS",US: S SPOR 2 HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/6.m3u8
-
-#EXTINF:0 group-title="SPORTS",US: EUROSPORT HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/1438.ts
-
-#EXTINF:0 group-title="SPORTS",US: EUROSPORT2 HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/1439.ts
-
-#EXTINF:0 group-title="SPORTS",US: EX YU HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/149.ts
-
-#EXTINF:0 group-title="SPORTS",US: EX YU (1+) HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/150.ts
-
-#EXTINF:0 group-title="SPORTS",US: EX YU (2+) HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/151.ts
-
-#EXTINF:0 group-title="SPORTS",US: EX YU (3+) HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/152.ts
-
-#EXTINF:0 group-title="SPORTS",US: EX YU (4+) HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/154.ts
-
-#EXTINF:0 group-title="SPORTS",US: EX YU (5+) HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/155.ts
-
-#EXTINF:0 group-title="SPORTS",US: EX YU (6+) HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/156.ts
-
-#EXTINF:0 group-title="SPORTS",US: EX YU (7+) HD
-http://ip.avov4.us:8000/live/ahmet54/54ahmet/157.ts
-
-#EXTINF:-1, group-title="SPORTS",BEIN 1 SD
-http://2111.space:25461/live/admin_205678/75eixnOP/1296.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 2 SD
-http://2111.space:25461/live/admin_205678/75eixnOP/1295.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 3 SD
-http://2111.space:25461/live/admin_205678/75eixnOP/1294.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 4 SD
-http://2111.space:25461/live/admin_205678/75eixnOP/1293.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 5 SD
-http://2111.space:25461/live/admin_205678/75eixnOP/1292.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 6 HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1291.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 7 HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1290.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 8 SD
-http://2111.space:25461/live/admin_205678/75eixnOP/1289.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 9 HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1288.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN 10 SD
-http://2111.space:25461/live/admin_205678/75eixnOP/1287.m3u8
-
 #EXTINF:-1, group-title="SPORTS",BEIN_SPORT1 SD
 http://2111.space:25461/live/admin_205678/75eixnOP/1336.m3u8
 #EXTINF:-1, group-title="SPORTS",BEIN_SPORT2 SD
@@ -374,7 +296,7 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 01/JAN/19] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 10/JAN/19] suaji
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-logo="http://d13z1xw8270sfc.cloudfront.net/origin/345327/1517142000099_blog-viralata-13.png" group-title="VOD", ::: VIDEO ON DEMAND :::
@@ -406,3 +328,24 @@ http://dl.dlb3d.xyz/M/Avengers.Infinity.War.2018/Avengers.Infinity.War.2018.New.
 
 #EXTINF:0, tvg-logo="https://media.gv.com.sg/imagesresize/img3476.jpg" group-title="MOVIE", Golden Job (2018)
 http://dl.dlb3d.xyz/M/Golden.Job.2018/Golden.Job.2018.1080p.6CH.VXT.mkv
+
+#EXTINF:0, TV3 1
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf6pLSn6wdk9ZF6cnIDKO58)/dm/3/x6qp375/s/live.m3u8
+
+#EXTINF:0, TV3 2
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf6pLSn6wdk9ZF6cnIDKO58)/dm/3/x6qp375/s/live-0.m3u8
+
+#EXTINF:0, TV3 3
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf6pLSn6wdk9ZF6cnIDKO58)/dm/3/x6qp375/s/live-1.m3u8
+
+#EXTINF:0, TV3 4
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf6pLSn6wdk9ZF6cnIDKO58)/dm/3/x6qp375/s/live-2.m3u8
+
+#EXTINF:0, TV3 5
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf6pLSn6wdk9ZF6cnIDKO58)/dm/3/x6qp375/s/live-3.m3u8
+
+#EXTINF:0, TV3 6
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf6pLSn6wdk9ZF6cnIDKO58)/dm/3/x6qp375/s/live-4.m3u8
+
+#EXTINF:0, NTV7 2
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU0usZkaqH_ScHdLJeuZhDU)/dm/3/x6qp6ou/s/live-3.m3u8
