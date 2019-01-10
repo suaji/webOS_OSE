@@ -23,6 +23,8 @@ http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbRy-qaHeYrQ2bm4EJvFB5w)/dm/3/x6qp375/s/live-0.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3 HD
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbRy-qaHeYrQ2bm4EJvFB5w)/dm/3/x6qp375/live.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU0usZkaqH_ScHdLJeuZhDU)/dm/3/x6qp6ou/live.m3u8
@@ -329,23 +331,4 @@ http://dl.dlb3d.xyz/M/Avengers.Infinity.War.2018/Avengers.Infinity.War.2018.New.
 #EXTINF:0, tvg-logo="https://media.gv.com.sg/imagesresize/img3476.jpg" group-title="MOVIE", Golden Job (2018)
 http://dl.dlb3d.xyz/M/Golden.Job.2018/Golden.Job.2018.1080p.6CH.VXT.mkv
 
-#EXTINF:0, TV3 1
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf6pLSn6wdk9ZF6cnIDKO58)/dm/3/x6qp375/s/live.m3u8
-
-#EXTINF:0, TV3 2
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf6pLSn6wdk9ZF6cnIDKO58)/dm/3/x6qp375/s/live-0.m3u8
-
-#EXTINF:0, TV3 3
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf6pLSn6wdk9ZF6cnIDKO58)/dm/3/x6qp375/s/live-1.m3u8
-
-#EXTINF:0, TV3 4
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf6pLSn6wdk9ZF6cnIDKO58)/dm/3/x6qp375/s/live-2.m3u8
-
-#EXTINF:0, TV3 5
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf6pLSn6wdk9ZF6cnIDKO58)/dm/3/x6qp375/s/live-3.m3u8
-
-#EXTINF:0, TV3 6
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf6pLSn6wdk9ZF6cnIDKO58)/dm/3/x6qp375/s/live-4.m3u8
-
-#EXTINF:0, NTV7 2
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU0usZkaqH_ScHdLJeuZhDU)/dm/3/x6qp6ou/s/live-3.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3 HD
