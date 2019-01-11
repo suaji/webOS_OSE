@@ -24,6 +24,9 @@ http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
 http://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfymYV7bCsuT6mRSnOVCS4k)/dm/3/x6qp375/s/live-2.m3u8
 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/DramaSangatHQ.png" group-title="MALAYSIA",TV3 HD
+http://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfymYV7bCsuT6mRSnOVCS4k)/dm/3/x6qp375/s/live-4.m3u8
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7
 http://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHS7JJAYDzUGICYYAX4O0hcQ)/dm/3/x6qp6ou/s/live-4.m3u8
 
@@ -136,7 +139,7 @@ http://cdn2.bear-tv.com/freetv/TOT_nickjr_th/playlist.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 #EXTINF:0, tvg-logo="https://banner2.kisspng.com/20180427/vke/kisspng-disney-channel-television-channel-disney-xd-sky-pl-disney-animation-5ae2d20cb987d6.3417869215248143487599.jpg" group-title="KIDS", DISNEY CHANNEL
-http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+=
 
 #EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9e3a8364-6268-caa1-53ee-fccdbca198aa-Hero%20Optional%201560x878.jpg" group-title="KIDS", ANIME ALL DAY HD
 http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -163,11 +166,10 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" group-title="MOVIE", HBO
-http://218.202.220.2:5000/nn_live.ts?id=HBO
+=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762272&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX CINEMA
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
@@ -181,7 +183,7 @@ http://80.80.160.168/live/7/live.m3u8
 #EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="MOVIE", SONY MOVIE NETWORK FHD
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0, SONY MOVIE CHANNEL HD
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="MOVIE", SONY MOVIE NETWORK HD
 https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.sky.com/tv/static/r3jPy0cN3NuYNkrCi2VIRpfAFOdMgjEaknRogD6Gbuw.png" group-title="MOVIE", FAMILY MOVIES 1
@@ -207,25 +209,8 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="SPORTS", FOX SPORTS FHD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
-#EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png" group-title="SPORTS", FOX SPORTS 2 FHD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
-#EXTINF:0 type="stream" , tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="SPORTS", FOX SPORTS 3 FHD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
-
-#EXTINF:-1, group-title="SPORTS",BEIN_SPORT1 SD
-http://2111.space:25461/live/admin_205678/75eixnOP/1336.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN_SPORT2 SD
-http://2111.space:25461/live/admin_205678/75eixnOP/1335.m3u8
-#EXTINF:-1, group-title="SPORTS",BEIN_SPORT3 HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1334.m3u8
-
 #EXTINF:0, tvg-logo="" group-title="SPORTS",BT SPORT 3 FHD
 http://deadpool.live:8080/Dave/1PTMuLVu6w/6892
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png" group-title="SPORTS", FOX SPORT 2 FHD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
@@ -296,7 +281,7 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 10/JAN/19] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 11/JAN/19] suaji
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-logo="http://d13z1xw8270sfc.cloudfront.net/origin/345327/1517142000099_blog-viralata-13.png" group-title="VOD", ::: VIDEO ON DEMAND :::
