@@ -309,3 +309,41 @@ http://dl.dlb3d.xyz/M/Avengers.Infinity.War.2018/Avengers.Infinity.War.2018.New.
 http://dl.dlb3d.xyz/M/Golden.Job.2018/Golden.Job.2018.1080p.6CH.VXT.mkv
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3 HD
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+
+#EXTINF:0, NASA
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0, NASA2
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+
+#EXTINF:0, ESPN BRASIL
+http://apk26.futeboltvgratis.com/live/19/playlist.m3u8
+
+#EXTINF:0, VIDEO1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:0, VIDEO2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:0, VIDEO3
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:0, VIDEO4
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:0, VIDEO5
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:0, VIDEO6
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:0, VIDEO7
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:0, VIDEO8
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+
+#EXTINF:0, ARENA 1
+http://46.40.5.99:8000/arena_1_low
+#EXTINF:0, ARENA 2
+http://46.40.5.99:8000/arena_2_low
+#EXTINF:0, ARENA 3
+http://46.40.5.99:8000/arena_3_low
+#EXTINF:0, ARENA 4HD
+http://46.40.5.99:8000/arena_4_high
+#EXTINF:0, ARENA 4
+http://46.40.5.99:8000/arena_4_low
