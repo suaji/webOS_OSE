@@ -22,7 +22,7 @@ http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfg0W33YkFWiki6P5PvaCfY)/dm/3/x6qp375/s/live-2.m3u8
+
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7
 
@@ -203,8 +203,18 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="SPORTS",BT SPORT 3 FHD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6892
+#EXTINF:0, ARENA 1
+http://46.40.5.99:8000/arena_1_low
+#EXTINF:0, ARENA 2
+http://46.40.5.99:8000/arena_2_low
+#EXTINF:0, ARENA 3
+http://46.40.5.99:8000/arena_3_low
+#EXTINF:0, ARENA 4
+http://46.40.5.99:8000/arena_4_high
+#EXTINF:0, ARENA4
+http://46.40.5.99:8000/arena_4_low
+#EXTINF:0, ESPN BRASIL
+http://apk26.futeboltvgratis.com/live/19/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
@@ -275,7 +285,7 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 11/JAN/19] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 22/JAN/19] suaji
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-logo="http://d13z1xw8270sfc.cloudfront.net/origin/345327/1517142000099_blog-viralata-13.png" group-title="VOD", ::: VIDEO ON DEMAND :::
@@ -317,9 +327,6 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 #EXTINF:0, NASA2
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
-#EXTINF:0, ESPN BRASIL
-http://apk26.futeboltvgratis.com/live/19/playlist.m3u8
-
 #EXTINF:0, VIDEO1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:0, VIDEO2
@@ -332,18 +339,7 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:0, VIDEO6
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:0, VIDEO7
+#EXTINF:0, VIDEO7 TOON
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:0, VIDEO8
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-
-#EXTINF:0, ARENA 1
-http://46.40.5.99:8000/arena_1_low
-#EXTINF:0, ARENA 2
-http://46.40.5.99:8000/arena_2_low
-#EXTINF:0, ARENA 3
-http://46.40.5.99:8000/arena_3_low
-#EXTINF:0, ARENA 4HD
-http://46.40.5.99:8000/arena_4_high
-#EXTINF:0, ARENA 4
-http://46.40.5.99:8000/arena_4_low
