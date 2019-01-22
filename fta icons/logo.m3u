@@ -318,8 +318,14 @@ http://dl.dlb3d.xyz/M/Avengers.Infinity.War.2018/Avengers.Infinity.War.2018.New.
 #EXTINF:0, tvg-logo="https://media.gv.com.sg/imagesresize/img3476.jpg" group-title="MOVIE", Golden Job (2018)
 http://dl.dlb3d.xyz/M/Golden.Job.2018/Golden.Job.2018.1080p.6CH.VXT.mkv
 
+#EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81x2pJI0PZL._SX569_.jpg" group-title="MOVIE", Bajrangi Bhaijaan (2015)
+http://mc1.dl3enter.in/files/d2/Movie/2015/Bajrangi%20Bhaijaan/Bajrangi.Bhaijaan.2015.1080p.BluRay.DL.mkv
+
+#EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615dnxvbW1L._SY355_.jpg" group-title="MOVIE", Dilwale (2015)
+http://dl.melimedia.net/mersad/movie/95/05/Dilwale.2015.1080p.x265_MeliMedia.INFO.mkv
+
+#EXTINF:0, tvg-logo="" group-title="MOVIE", 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3 HD
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
 
 #EXTINF:0, NASA
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
