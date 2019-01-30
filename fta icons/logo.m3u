@@ -221,6 +221,26 @@ http://46.40.5.99:8000/arena_4_low
 #EXTINF:0, ESPN BRASIL
 http://apk26.futeboltvgratis.com/live/19/playlist.m3u8
 
+#EXTINF:-1,BT SPORT 1
+https://vip7stream.pw/lba/123/g2/ukbtsport1.m3u8
+#EXTINF:-1,BT SPORT 2
+https://vip7stream.pw/lba/123/g3/bt2.m3u8
+#EXTINF:-1,BT SPORT 3
+https://vip7stream.pw/lba/123/g4/bt3sport.m3u8
+#EXTINF:-1,BT SPORT ESPN
+https://vip7stream.pw/lba/123/g6/espnbt.m3u8
+
+#EXTINF:-1,ARENA SPORT 2
+https://vip7stream.pw/lba/123/g10/arena2sport.m3u8
+#EXTINF:-1,ARENA SPORT 3
+https://vip7stream.pw/lba/123/g6/sportarena3rs.m3u8
+#EXTINF:-1,ARENA SPORT 4
+https://vip7stream.pw/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:-1,ARENA SPORT 5
+https://vip7stream.pw/lba/123/g7/ar5sport.m3u8
+#EXTINF:-1,ARENA SPORT 6
+https://969ce024d0d9412baeb740153c4cde27.azureedge.net/9da4a272-d0d3-4e9b-b79e-31aaa6c14d3f/6d53e58d-328a-494d-a866-30b948e5612b.ism/QualityLevels(200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
 
