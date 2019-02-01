@@ -380,3 +380,10 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1, AYSAR - 24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Aplus TV
+http://89.1.122.121:8000/play/a004
+#EXTINF:-1,KBS1
+http://211.179.128.186:9981/stream/channelid/246632282
+#EXTINF:-1,CCTV02HD
+http://117.169.72.6:8080/ysten-businessmobile/live/cctv-2/1.m3u8
