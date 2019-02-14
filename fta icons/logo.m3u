@@ -92,6 +92,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 #EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS WORLD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/index.m3u8
 
+#EXTINF:0, K-PLUS
+http://45.126.83.51/uq2663/h/h08/01.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="KOREAN", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -116,14 +119,11 @@ https://pastebin.com/Q70AN0JK
 #EXTINF:0, NASA
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://banner2.kisspng.com/20180516/fww/kisspng-nat-geo-wild-national-geographic-television-channe-live-stream-5afcbccd447341.5207558215265128452804.jpg" group-title="DOCUMENTARY", NAT GEO WILD
-==
-
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="DOCUMENTARY", FOX CRIME HD
-==
+#EXTINF:0, tvg-logo="" group-title="DOCUMENTARY", DIVA UNIVERSAL
+http://45.126.83.51/uq2663/h/h11/index2.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
@@ -131,14 +131,8 @@ http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/hi5tv/images/8/87/Okto.png/revision/latest?cb=20170102042731" group-title="KIDS", OKTO
 http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 
-#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Nick_Jr._HD.png/revision/latest?cb=20130808040908" group-title="KIDS", NICK JR HD
-==
-
 #EXTINF:-1, tvg-logo="https://banner2.kisspng.com/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg" group-title="KIDS", CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-
-#EXTINF:0, tvg-logo="https://banner2.kisspng.com/20180427/vke/kisspng-disney-channel-television-channel-disney-xd-sky-pl-disney-animation-5ae2d20cb987d6.3417869215248143487599.jpg" group-title="KIDS", DISNEY CHANNEL
-==
 
 #EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9e3a8364-6268-caa1-53ee-fccdbca198aa-Hero%20Optional%201560x878.jpg" group-title="KIDS", ANIME ALL DAY HD
 http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -149,23 +143,20 @@ http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8
 #EXTINF:0, tvg-logo="http://areyouafoodie.com/wp-content/uploads/2017/04/Foodie-Logo-FN.png" group-title="KIDS",FOODIE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 
+#EXTINF:0, ANIMAX ASIA
+http://45.126.83.51/dr9445/h/h18/01.m3u8
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" group-title="MOVIE",[COLOR springgreen]:: FAMILY ::[/COLOR]
-https://pastebin.com/6rrvi4kD
+http://nguoiviet.tv/blue-ant-extreme/
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
 #EXTINF: -1, tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" group-title="MOVIE", &FLIX HD (D.HW)
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF: -1, tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE", &PRIVE HD (D.HW)
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-
-#EXTINF: -1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Zee_Cafe_2011.png" group-title="MOVIE", ZEE CAFE HD (D.HW)
-http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png" group-title="MOVIE", HBO
-=
+http://45.126.83.51/session/f67ac204-302a-11e9-a7c9-88999b39c21c/uq2663/h/h09/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
@@ -194,9 +185,6 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 #EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE (IND)
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
-#EXTINF: -1, tvg-logo="https://pbs.twimg.com/profile_images/1240943460/260572775.jpg" group-title="MOVIE", SFI (IND) (D.HW)
-==
-
 #EXTINF:0, RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
@@ -207,39 +195,6 @@ https://pastebin.com/PJEQhvtD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
-
-#EXTINF:0, ARENA 1
-http://46.40.5.99:8000/arena_1_low
-#EXTINF:0, ARENA 2
-http://46.40.5.99:8000/arena_2_low
-#EXTINF:0, ARENA 3
-http://46.40.5.99:8000/arena_3_low
-#EXTINF:0, ARENA 4
-http://46.40.5.99:8000/arena_4_high
-#EXTINF:0, ARENA4
-http://46.40.5.99:8000/arena_4_low
-#EXTINF:0, ESPN BRASIL
-http://apk26.futeboltvgratis.com/live/19/playlist.m3u8
-
-#EXTINF:-1,BT SPORT 1
-https://vip7stream.pw/lba/123/g2/ukbtsport1.m3u8
-#EXTINF:-1,BT SPORT 2
-https://vip7stream.pw/lba/123/g3/bt2.m3u8
-#EXTINF:-1,BT SPORT 3
-https://vip7stream.pw/lba/123/g4/bt3sport.m3u8
-#EXTINF:-1,BT SPORT ESPN
-https://vip7stream.pw/lba/123/g6/espnbt.m3u8
-
-#EXTINF:-1,ARENA SPORT 2
-https://vip7stream.pw/lba/123/g10/arena2sport.m3u8
-#EXTINF:-1,ARENA SPORT 3
-https://vip7stream.pw/lba/123/g6/sportarena3rs.m3u8
-#EXTINF:-1,ARENA SPORT 4
-https://vip7stream.pw/lba/123/g3/arenaserbia4.m3u8
-#EXTINF:-1,ARENA SPORT 5
-https://vip7stream.pw/lba/123/g7/ar5sport.m3u8
-#EXTINF:-1,ARENA SPORT 6
-https://969ce024d0d9412baeb740153c4cde27.azureedge.net/9da4a272-d0d3-4e9b-b79e-31aaa6c14d3f/6d53e58d-328a-494d-a866-30b948e5612b.ism/QualityLevels(200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 http://d1cq5wn80firug.cloudfront.net/144770_989b4dcb1cc1afad58fac51b8afafd84/m3u8s/144770.m3u8
@@ -349,7 +304,7 @@ http://mc1.dl3enter.in/files/d2/Movie/2015/Bajrangi%20Bhaijaan/Bajrangi.Bhaijaan
 #EXTINF:0, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615dnxvbW1L._SY355_.jpg" group-title="MOVIE", Dilwale (2015)
 http://dl.melimedia.net/mersad/movie/95/05/Dilwale.2015.1080p.x265_MeliMedia.INFO.mkv
 
-#EXTINF:0, tvg-logo="" group-title="MOVIE", 
+http://aidilskr.blogspot.com/2017/02/the-legend-of-condor-lovers-1998.html
 
 #EXTINF:0, VIDEO1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
