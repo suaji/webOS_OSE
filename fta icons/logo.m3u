@@ -105,6 +105,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 #EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS WORLD
 http://122.155.180.8:5021/live/216
 
+#EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS WORLD HD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+
 #EXTINF:0, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="KOREAN", K-PLUS (MLY)
 http://45.126.83.51/uq2663/h/h08/01.m3u8
 
@@ -220,13 +223,23 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/PJEQhvtD
 
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORTS",Abu Dhabi Sports 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sport
+https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="SPORTS", CCTV5+
+http://cdn10.uhd4khdr.com/5jia.m3u8
 
 #EXTINF:-1, PPTV 36
 http://183.182.100.184/live/pptvthai/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="SPORTS", SENTANA SPORT+
+http://ott-cdn.ucom.am/s82/03.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="SPORTS", SENTANA SPORT
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", ELEVEN SPORT 1
+http://cdn7.woideas.com/tv11.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 https://www.youtube.com/embed/naW9U8MiUY0
@@ -297,10 +310,16 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 01/MAC/19] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 21/MAC/19] suaji
 http://main-a.for-our.info:8081/tv11/kbsworld/playlist.m3u8
 
 http://aidilskr.blogspot.com/2017/02/the-legend-of-condor-lovers-1998.html
 
 #EXTINF:0, HRT 2 (MOVIE)
 http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="Video On Demand", (ONLINE) Tomb Raider (2018)
+https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="Video On Demand", (ONLINE) Pengabdi Setan (2017)
+https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
