@@ -229,8 +229,23 @@ https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.co
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="SPORTS", CCTV5+
 http://cdn10.uhd4khdr.com/5jia.m3u8
 
-#EXTINF:-1, PPTV 36
+#EXTINF:-1, group-title="SPORTS", PPTV 36 HD
+http://183.182.100.184/live/pptvthai/index.m3u
+
+#EXTINF:-1, group-title="SPORTS", PPTV 36
 http://183.182.100.184/live/pptvthai/chunklist.m3u8
+
+#EXTINF:0 group-title="SPORTS", ARENA SPORT 1
+http://93.155.143.90:85/m3u8/arenasport1.m3u8
+ 
+#EXTINF:0 group-title="SPORTS", ARENA SPORT 2
+http://93.155.143.90:85/m3u8/arenasport2.m3u8
+ 
+#EXTINF:0 group-title="SPORTS", ARENA SPORT 3
+http://93.155.143.90:85/m3u8/arenasport3.m3u8
+ 
+#EXTINF:0 group-title="SPORTS", ARENA SPORT 4
+http://93.155.143.90:85/m3u8/arenasport4.m3u8
 
 #EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="SPORTS", SENTANA SPORT+
 http://ott-cdn.ucom.am/s82/03.m3u8
