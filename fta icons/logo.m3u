@@ -169,13 +169,13 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:0, tvg-logo="https://www.directv.com/images/logos/channels/dark/large/564.png" group-title="MOVIE",SHOWTIME HD
 http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIE",&FLIX HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="MOVIE",&FLIX HD
 http://landiptv.live:8080/sasuke2/irkyGqyKud/157470
  
-#EXTINF:-1 tvg-logo="" group-title="MOVIE",&PRIVE HD
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/news-photo/1505284911_sI2Bzt_70469.jpg" group-title="MOVIE",&PRIVE HD
 http://landiptv.live:8080/sasuke2/irkyGqyKud/127269
  
-#EXTINF:-1 tvg-logo="http://i66.tinypic.com/29z262w.jpg" group-title="MOVIE",&PICTURES HD
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2016/11/zeepictures.png" group-title="MOVIE",&PICTURES HD
 http://landiptv.live:8080/sasuke2/irkyGqyKud/125150
 
 #EXTINF:-1 tvg-logo="http://www.sky.com/tv/static/r3jPy0cN3NuYNkrCi2VIRpfAFOdMgjEaknRogD6Gbuw.png" group-title="MOVIE", FAMILY MOVIES 1
