@@ -21,19 +21,19 @@ https://rtm-live-stream1.glueapi.io/smil:rtmch006/playlist.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/parlimen_webos.jpg" group-title="MALAYSIA",PARLIMEN
 https://rtm-live-stream1.glueapi.io/smil:rtmch007/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
+#EXTINF:0, tvg-logo="https://www.xtra.com.my/img/logo/tv3.png" group-title="MALAYSIA",TV3
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfiGGwhPUPWp9ymEuCt7czo)/dm/3/x6qp375/s/live-1.m3u8
+
+#EXTINF:0, tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="MALAYSIA",NTV7
 --
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7
---
-
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tva_webos.jpg" group-title="MALAYSIA",8TV
+#EXTINF:0, tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="MALAYSIA",8TV
 --
  
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv9a_webos.jpg" group-title="MALAYSIA",TV9
+#EXTINF:0, tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="MALAYSIA",TV9
 --
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/DramaSangatHQ.png" group-title="MALAYSIA",DRAMA SANGAT
+#EXTINF:0, tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="MALAYSIA",DRAMA SANGAT
 --
 
 #EXTINF:-1 tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg" group-title="MALAYSIA", HELLO TV
