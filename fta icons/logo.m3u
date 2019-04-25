@@ -22,10 +22,10 @@ https://rtm-live-stream1.glueapi.io/smil:rtmch006/playlist.m3u8
 https://rtm-live-stream1.glueapi.io/smil:rtmch007/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://www.xtra.com.my/img/logo/tv3.png" group-title="MALAYSIA",TV3
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfiGGwhPUPWp9ymEuCt7czo)/dm/3/x6qp375/s/live-1.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTrGPHjRG9JzinEl5R0U1WM)/dm/3/x6qp375/s/live-1.m3u8
 
 #EXTINF:0, tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="MALAYSIA",NTV7
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSHh10adCjSrk-lRORgPZ0A)/dm/3/x6qp6ou/s/live-1.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaYsYrYMMOGdcSX3kHjBWvk)/dm/3/x6qp6ou/s/live-1.m3u8
 
 #EXTINF:0, tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="MALAYSIA",8TV
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf32XTXE0EjHqdkK_Ac8ac4)/dm/3/x6qud17/s/live-1.m3u8
