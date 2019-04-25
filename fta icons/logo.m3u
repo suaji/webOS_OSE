@@ -28,10 +28,10 @@ https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTrGPHjRG9JzinEl5R
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaYsYrYMMOGdcSX3kHjBWvk)/dm/3/x6qp6ou/s/live-1.m3u8
 
 #EXTINF:0, tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="MALAYSIA",8TV
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf32XTXE0EjHqdkK_Ac8ac4)/dm/3/x6qud17/s/live-1.m3u8
- 
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfv64i3db6t0VbB579y3824)/dm/3/x6qud17/s/live-1.m3u8
+
 #EXTINF:0, tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="MALAYSIA",TV9
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaIl2FWx5Mo1JIn3SaF61FM)/dm/3/x6qqja6/s/live-1.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYKLpKs760S313tqn21D3f8)/dm/3/x6qqja6/s/live-0.m3u8
 
 #EXTINF:0, tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="MALAYSIA",DRAMA SANGAT
 https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0suvSUsNgsfXFC48RRDjvN4)/dm/3/x6zvnex/s/live-0.m3u8
@@ -319,3 +319,21 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDO TV",  ASTRO ARENA HD
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
+
+#EXTINF:0, Test31
+http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
+#EXTINF:0, Test32
+http://stream-02.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
+#EXTINF:0, Test33
+http://stream-03.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
+#EXTINF:0, Test34
+http://stream-04.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
+
+#EXTINF:0, Test35
+https://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
+#EXTINF:0, Test36
+https://stream-02.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
+#EXTINF:0, Test37
+https://stream-03.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
+#EXTINF:0, Test38
+https://stream-04.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
