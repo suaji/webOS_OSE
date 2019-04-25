@@ -123,7 +123,11 @@ https://pastebin.com/Q70AN0JK
 #EXTINF:0, NASA
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
+#EXTINF:0, NASA SD
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8?
+
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Diva_Universal.png" group-title="DOCUMENTARY", DIVA UNIVERSAL
 http://45.126.83.51/uq2663/h/h11/index2.m3u8
