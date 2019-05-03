@@ -327,5 +327,73 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 25/APR/19] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 03/05/2019] suaji
 http://main-a.for-our.info:8081/tv11/kbsworld/playlist.m3u8
+
+#EXTINF:0, TEST 1
+https://stream-01.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 2
+https://stream-02.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 3
+https://stream-03.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 4
+https://stream-04.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 5
+https://stream-05.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 6
+https://stream-06.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 7
+https://stream-07.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 8
+https://stream-08.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
+
+#EXTINF:0, TEST 9
+https://stream-01.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 10
+https://stream-02.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 11
+https://stream-03.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 12
+https://stream-04.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 13
+https://stream-05.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 14
+https://stream-06.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 15
+https://stream-07.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 16
+https://stream-08.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
+
+#EXTINF:0, TEST 17
+https://stream-01.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 18
+https://stream-02.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 19
+https://stream-03.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 20
+https://stream-04.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 21
+https://stream-05.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 22
+https://stream-06.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 23
+https://stream-07.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
+#EXTINF:0, TEST 24
+https://stream-08.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
+
+#EXTINF:0, TEST 25
+https://stream-01.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 26
+https://stream-02.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 27
+https://stream-03.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 28
+https://stream-04.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 29
+https://stream-05.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 30
+https://stream-06.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 31
+https://stream-07.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
+#EXTINF:0, TEST 32
+https://stream-08.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
