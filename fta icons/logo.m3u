@@ -138,6 +138,15 @@ http://45.126.83.51/uq2663/h/h11/index2.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="KIDS",CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR X
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/hi5tv/images/8/87/Okto.png/revision/latest?cb=20170102042731" group-title="KIDS", OKTO
 
 #EXTINF:0, tvg-logo="http://areyouafoodie.com/wp-content/uploads/2017/04/Foodie-Logo-FN.png" group-title="KIDS",FOODIE
@@ -169,6 +178,9 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/eU0ivY1.jpg?2" group-title="MOVIE",SINEMA INDONESIA
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
@@ -219,26 +231,11 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/PJEQhvtD
 
-#EXTINF:0, group-title="SPORTS",ARENA SUPERSPORT 1
-http://203.154.243.89:1204
- 
-#EXTINF:0, group-title="SPORTS",ARENA SUPERSPORT 2
-http://203.154.243.89:1206
- 
-#EXTINF:0, group-title="SPORTS",ARENA SUPERSPORT 3
-http://203.154.243.89:1207
- 
-#EXTINF:0, group-title="SPORTS",ARENA SUPERSPORT 4
-http://203.154.243.89:1211
-
-#EXTINF:0, group-title="SPORTS",ASIA SUPERSPORT 4
-http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sport
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-logo="https://image.ibb.co/fUFZ6z/tvrisport.jpg" group-title="SPORTS",TVRI SPORTS
-http://210.210.155.35/session/5e0f39d4-b724-11e8-9a78-b82a72d63267/qwr9ew/s/s48/01.m3u8
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="SPORTS", CCTV5+
 http://cdn10.uhd4khdr.com/5jia.m3u8
@@ -329,71 +326,3 @@ http://s1.cmesolution.my:5689/;
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 03/05/2019] suaji
 http://main-a.for-our.info:8081/tv11/kbsworld/playlist.m3u8
-
-#EXTINF:0, TEST 1
-https://stream-01.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 2
-https://stream-02.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 3
-https://stream-03.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 4
-https://stream-04.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 5
-https://stream-05.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 6
-https://stream-06.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 7
-https://stream-07.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 8
-https://stream-08.sg1.dailymotion.com/dm/3/x6zvnex/live-1.m3u8
-
-#EXTINF:0, TEST 9
-https://stream-01.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 10
-https://stream-02.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 11
-https://stream-03.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 12
-https://stream-04.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 13
-https://stream-05.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 14
-https://stream-06.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 15
-https://stream-07.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 16
-https://stream-08.sg1.dailymotion.com/dm/3/x6zvnex/live-2.m3u8
-
-#EXTINF:0, TEST 17
-https://stream-01.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 18
-https://stream-02.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 19
-https://stream-03.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 20
-https://stream-04.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 21
-https://stream-05.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 22
-https://stream-06.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 23
-https://stream-07.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
-#EXTINF:0, TEST 24
-https://stream-08.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-1.m3u8
-
-#EXTINF:0, TEST 25
-https://stream-01.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 26
-https://stream-02.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 27
-https://stream-03.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 28
-https://stream-04.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 29
-https://stream-05.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 30
-https://stream-06.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 31
-https://stream-07.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
-#EXTINF:0, TEST 32
-https://stream-08.sg1.dailymotion.com/dm/dm/3/x6zvnex/live-2.m3u8
