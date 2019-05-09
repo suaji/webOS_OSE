@@ -177,8 +177,11 @@ http://63.237.48.9/ios/MBC2/MBC2.m3u8
 #EXTINF: -1, tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" group-title="MOVIE", MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/eU0ivY1.jpg?2" group-title="MOVIE",SINEMA INDONESIA
-http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE",KIX
+http://210.210.155.35/uq2663/h/h07/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png" group-title="MOVIE", THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
@@ -196,13 +199,13 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 http://80.80.160.168/live/7/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="MOVIE",&FLIX HD
-http://landiptv.live:8080/sasuke2/irkyGqyKud/157470
+==
  
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/news-photo/1505284911_sI2Bzt_70469.jpg" group-title="MOVIE",&PRIVE HD
-http://landiptv.live:8080/sasuke2/irkyGqyKud/127269
+==
  
 #EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2016/11/zeepictures.png" group-title="MOVIE",&PICTURES HD
-http://landiptv.live:8080/sasuke2/irkyGqyKud/125150
+==
 
 #EXTINF:-1 tvg-logo="http://www.sky.com/tv/static/r3jPy0cN3NuYNkrCi2VIRpfAFOdMgjEaknRogD6Gbuw.png" group-title="MOVIE", FAMILY MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
