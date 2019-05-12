@@ -36,6 +36,9 @@ https://rtmlfd01.secureswiftcontent.com/d55a656edc8eb4ba251aa319b412c1eb/master.
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHciRBcXnPYDHR68muU_ieWU)/dm/3/x6qp375/s/live-0.m3u8
 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3 SD
+https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaDEz8HqiW_1Jw-Aljgbt9hfIJtcMVpLmS0gPdFJFPvBV9bJ4qRg6LYp5e4-nNKp-rQ&redirect=0
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHc3rNSL9qn0QThm7uNkraiE)/dm/3/x6qp6ou/live.m3u8
 
