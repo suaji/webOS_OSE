@@ -21,16 +21,16 @@ https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/okey_webos.jpg" group-title="MALAYSIA",OKEY
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/3Rkdd9nUPAg/maxresdefault.jpg" group-title="MALAYSIA",RTM BES
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/RTMBES2018.jpg" group-title="MALAYSIA",RTM BES
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MALAYSIA",RTM SPORTS
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/RTMSPORT2018.jpg" group-title="MALAYSIA",RTM SPORTS
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/1new_webos.jpg" group-title="MALAYSIA",1NEWS
 https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://s3-ap-southeast-1.amazonaws.com/smartware-cms-prod/image/tvTVPARLIMENDEWANRAKYATlogo170X96.jpg" group-title="MALAYSIA",PARLIMEN DEWAN RAKYAT
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/parlimen_webos.jpg" group-title="MALAYSIA",PARLIMEN DEWAN RAKYAT
 https://rtmlfd01.secureswiftcontent.com/d55a656edc8eb4ba251aa319b412c1eb/master.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/parlimen_webos.jpg" group-title="MALAYSIA",PARLIMEN DEWAN NEGARA
