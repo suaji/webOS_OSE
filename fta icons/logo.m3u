@@ -81,6 +81,9 @@ http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=0
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="INDONESIA", RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="INDONESIA", RCTI HD
+http://id8.indostreamingtv.com/live/tv66/index.m3u8
+
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA", MNC TV
 http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -151,7 +154,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",CARTOON NETWORK
-==
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -205,13 +208,13 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 http://80.80.160.168/live/7/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="MOVIE",&FLIX
-==
- 
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23920
+
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/09/andPrive-HD_6.jpg" group-title="MOVIE",&PRIVE
-==
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23919
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1007646152177737729/YpGbj4BT_400x400.jpg" group-title="MOVIE",&PICTURES HD
-==
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/24040
 
 #EXTINF:-1 tvg-logo="http://www.sky.com/tv/static/r3jPy0cN3NuYNkrCi2VIRpfAFOdMgjEaknRogD6Gbuw.png" group-title="MOVIE", FAMILY MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
@@ -233,6 +236,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1, WOWOW MOVIES (JPN|ENG)
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
 #EXTINF:-1, 24/7 Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1, 24/7 Hollywood Movies 2
@@ -243,6 +247,12 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1, 24/7 Hollywood Movies 5
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Stephen Chow Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1, VOD : MUNAFIK 2
+http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/v9e3T9TK/10/05/2019
@@ -267,6 +277,31 @@ http://45.126.83.51/uq2663/h/h05/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", ELEVEN SPORT 1
 http://cdn7.woideas.com/tv11.m3u8
+
+#EXTINF:-1,BT ESPN
+http://cdn.miip.tv:80/ileana/ileana/283
+#EXTINF:-1,BT SPORT1
+http://cdn.miip.tv:80/ileana/ileana/282
+#EXTINF:-1,BT SPORT2
+http://cdn.miip.tv:80/ileana/ileana/281
+
+#EXTINF:-1,BT Sport 1
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/8222
+#EXTINF:-1,BT Sport 2
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/8221
+#EXTINF:-1,BT Sport 3
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/8220
+#EXTINF:-1,BT Sport ESPN
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/8219
+#EXTINF:-1,BT Sport Extra 5
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23645
+
+#EXTINF:-1,WWE 24/7 HD
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23687
+#EXTINF:-1,WWE Network OSN
+http://www.sansat.net:25461/6yong314/N8r3cqKaXE/25800
+#EXTINF:-1,Wrestling Feed 1
+http://cdnak1.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 https://www.youtube.com/embed/naW9U8MiUY0
@@ -337,5 +372,5 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 11/05/2019] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 19/05/2019] suaji
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
