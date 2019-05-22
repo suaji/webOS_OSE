@@ -37,22 +37,22 @@ https://rtmlfd01.secureswiftcontent.com/d55a656edc8eb4ba251aa319b412c1eb/master.
 https://rtmlfd01.secureswiftcontent.com/d55a656edc8eb4ba251aa319b412c1eb/master.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRxwVQs7kg6vrcaiOXcuWl8)/dm/3/x6qp375/d/live-1.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRxwVQs7kg6vrcaiOXcuWl8)/dm/3/x6qp375/d/live-1.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3 HD
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRxwVQs7kg6vrcaiOXcuWl8)/dm/3/x6qp375/live.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRxwVQs7kg6vrcaiOXcuWl8)/dm/3/x6qp375/live.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYcS2SDqd0aWL52XSBtK6sw)/dm/3/x6qp6ou/live.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV_OPBZRVkOxJwChBTmQZNk)/dm/3/x6qp6ou/live.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tva_webos.jpg" group-title="MALAYSIA",8TV
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUzjO8vXFX1_RxUlw0b9pKg)/dm/3/x6qud17/live.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb7yZ7uG79oUG9ONXKYOdnE)/dm/3/x6qud17/live.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv9a_webos.jpg" group-title="MALAYSIA",TV9
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcxvwz9SZp3PyYYjepqof-E)/dm/3/x6qqja6/live.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaHjvvOuiDOvZjn63BPXrzo)/dm/3/x6qqja6/live.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/Drama_Sangat_HQ.jpg" group-title="MALAYSIA",DRAMA SANGAT
-https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0rYfRpJ49mv_bMoBfHs29jQ)/dm/3/x6zvnex/live.m3u8
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0hHzUW9w37LCPBFGsRfFEh0)/dm/3/x6zvnex/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg" group-title="MALAYSIA", HELLO TV
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
@@ -371,9 +371,3 @@ http://s1.cmesolution.my:5689/;
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 22/05/2019] suaji
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-
-//https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah tv3
-//https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg ntv7
-//https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar 8tv
-//https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0 tv9
-//https://www.dailymotion.com/embed/video/x6zvnex				dramasgt
