@@ -40,19 +40,19 @@ https://rtmlfd01.secureswiftcontent.com/d55a656edc8eb4ba251aa319b412c1eb/master.
 https://rtmlfd01.secureswiftcontent.com/d55a656edc8eb4ba251aa319b412c1eb/master.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQEmkH1BOG3EHCFTZWQCm64)/dm/3/x6qp375/live.m3u8
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214876
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3 HD
 plugin://plugin.video.dailymotion_com/?url=%k3GVzd2cWbveXyrApah%&mode=playVideo
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfHoo66UPwdsrnR5_5r4o0o)/dm/3/x6qp6ou/live.m3u8
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214853
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tva_webos.jpg" group-title="MALAYSIA",8TV
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSm9WDh3P-3DWmW97Cv9ek4)/dm/3/x6qud17/live.m3u8
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214877
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv9a_webos.jpg" group-title="MALAYSIA",TV9
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXvSjzIlePAVSpnDTlC4t2E)/dm/3/x6qqja6/live.m3u8
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214878
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/Drama_Sangat_HQ.jpg" group-title="MALAYSIA",DRAMA SANGAT
 https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0twiAKqlO6RkalEQrD8M5ag)/dm/3/x6zvnex/live.m3u8
@@ -278,6 +278,24 @@ http://45.126.83.51/uq2663/h/h05/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", ELEVEN SPORT 1
 http://cdn7.woideas.com/tv11.m3u8
 
+#EXTINF:-1 group-title="MALAYSIA", SUPERSPORTS 1 HD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214884
+#EXTINF:-1 group-title="MALAYSIA", SUPERSPORTS 2 HD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214885
+#EXTINF:-1 group-title="MALAYSIA", SUPERSPORTS 3 HD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214886
+#EXTINF:-1 group-title="MALAYSIA", SUPERSPORTS 4 HD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214887
+
+#EXTINF:-1 group-title="MALAYSIA", SUPERSPORTS 1 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/142606
+#EXTINF:-1 group-title="MALAYSIA", SUPERSPORTS 2 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/142607
+#EXTINF:-1 group-title="MALAYSIA", SUPERSPORTS 3 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/142608
+#EXTINF:-1 group-title="MALAYSIA", SUPERSPORTS 4 FHD
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/142609
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 https://www.youtube.com/embed/naW9U8MiUY0
 
@@ -347,5 +365,5 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 31/05/2019] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 04/06/2019] suaji
 https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTKb93Y0PNJ6iO9ZCYC1NC0Qq6hRTgzg0pBmuzkvM2BKdiqON_C872ssD5mhasWQ5jg&redirect=0
