@@ -64,7 +64,18 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" group-title="MALAYSIA",ASTRO ARENA
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHciRBcXnPYDHR68muU_ieWU)/dm/3/x6qp375/live.m3u8
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/142601
+
+#EXTINF:-1 group-title="Malaysia", OASIS
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214807
+#EXTINF:-1 group-title="Malaysia", PRIMA
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214808
+#EXTINF:-1 group-title="Malaysia", RIA
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214809
+#EXTINF:-1 group-title="Malaysia", WARNA
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/142613
+#EXTINF:-1 group-title="Malaysia", CERIA
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214806
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Surialogo700x525_20130517103430.jpg/revision/latest?cb=20161026075708" group-title="SINGAPORE", SURIA
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8
