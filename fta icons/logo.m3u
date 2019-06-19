@@ -246,11 +246,17 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 #EXTINF:-1,Stephen Chow Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1, VOD : MUNAPIK 1 (2016)
+#EXTINF:-1, VOD : MUNAPIK (2016)
 http://103.91.144.230/ftpdata/Movies/Bollywood/2016/Munafik%20%282016%29/Munafik%20%282016%29%20%20Engsub%201080p.mp4
 
 #EXTINF:-1, VOD : MUNAPIK 2 (2018)
 http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
+
+#EXTINF:-1, VOD : John Wick (2014)
+http://9092.ultratv100.com:9090/movies/Batch219/JhnWck124/JhnWck124.mp4
+
+#EXTINF:-1, VOD : John Wick 2 (2014)
+http://stg.pz10139.parspack.net/Films/John.Wick.Chapter.2.2017/John.Wick.Chapter.2.2017.720p.ShAaNiG.mkv
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/v9e3T9TK/10/05/2019
