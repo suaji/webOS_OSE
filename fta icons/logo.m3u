@@ -229,7 +229,7 @@ http://45.126.83.51/uq2663/h/h11/index2.m3u8
 #EXTINF:0, RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
-#EXTINF:-1, WOWOW MOVIES (JPN|ENG)
+#EXTINF:-1, WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1, 24/7 Hollywood Movies 1
@@ -243,8 +243,14 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 #EXTINF:-1, 24/7 Hollywood Movies 5
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
+#EXTINF:-1,Jackie Chan Movie
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+
 #EXTINF:-1,Stephen Chow Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,Jet Lie Movie
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1, tvg-logo="", VOD : Pokemon Detective Pikachu (HDCAM)
 http://dl2.haylimoviez.info/Movie%202019/Pokemon.Detective.Pikachu.2019.720p.HDRip.MkvCage.mkv
@@ -266,12 +272,6 @@ http://dl5.upfdl.com/files/Film/2019/Avengers%3a%20Endgame%202019/Avengers.Endga
 
 #EXTINF:-1, tvg-logo="", VOD : DUMBO (2019)
 http://dl2.haylimoviez.info/Movie%202019/Dumbo.2019.720p.YTS.mkv
-
-#EXTINF:-1, tvg-logo="", VOD : MUNAPIK (2016)
-http://103.91.144.230/ftpdata/Movies/Bollywood/2016/Munafik%20%282016%29/Munafik%20%282016%29%20%20Engsub%201080p.mp4
-
-#EXTINF:-1, tvg-logo="", VOD : MUNAPIK 2 (2018)
-http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
 
 #EXTINF:-1, tvg-logo="", VOD : John Wick (2014)
 http://9092.ultratv100.com:9090/movies/Batch219/JhnWck124/JhnWck124.mp4
@@ -374,42 +374,3 @@ http://s1.cmesolution.my:5689/;
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 19/06/2019] suaji
 https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTKb93Y0PNJ6iO9ZCYC1NC0Qq6hRTgzg0pBmuzkvM2BKdiqON_C872ssD5mhasWQ5jg&redirect=0
-
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV1
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9609
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV2
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9608
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV3
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9607
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : NTV7
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9610
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV8
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9606
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV9
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9605
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TVN HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9611
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TVN Movies HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9595
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : HBO ASIA
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9596
-#EXTINF:-1 tvg-logo="" group-title="",VIP : KBS WORLD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/7283
-
-#EXTINF:-1, group-title="SPORTS", ASTRO ARENA 
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9616
-#EXTINF:-1, group-title="SPORTS", ASTRO SUPERSPORTS 1 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/19170
-#EXTINF:-1, group-title="SPORTS", ASTRO SUPERSPORTS 2 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/19171
-#EXTINF:-1, group-title="SPORTS", ASTRO SUPERSPORTS 3 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/19172
-#EXTINF:-1, group-title="SPORTS", ASTRO SUPERSPORTS 4 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/19173
-
-#EXTINF:-1 tvg-logo="" group-title="",VIP : BT Sports 1 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/8178
-#EXTINF:-1 tvg-logo="" group-title="",VIP : BT Sports 2 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/8179
-#EXTINF:-1 tvg-logo="" group-title="",VIP : BT Sports 3 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/8180
