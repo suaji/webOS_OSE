@@ -172,14 +172,35 @@ https://pastebin.com/raw/ZzGTySZE/FLUXUSTV
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
-#EXTINF: -1, tvg-logo="" group-title="MOVIE", MY CINEMA (MLY)
+#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2018/04/BAextreme.jpg" group-title="MOVIE", BLUE ANT EXTREME (MLY)
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF: -1, tvg-logo="http://gobx.com/wp-content/uploads/2017/08/129-My-Cinema-HD.png" group-title="MOVIE", MY CINEMA (MLY)
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF: -1, tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" group-title="MOVIE", CINEMA WORLD (MLY)
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
+
+#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE (MLY)
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+
+#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE HD (MLY)
+http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE", KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE", KIX (MLY)
 http://210.210.155.35/uq2663/h/h07/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png" group-title="MOVIE", THRILL
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png" group-title="MOVIE", THRILL (MLY)
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hitstv.com/img/HITS-WWW-Banner1.png" group-title="MOVIE", HITS
+http://45.126.83.51/uq2663/h/h37/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hitstv.com/img/HITS-WWW-Banner1.png" group-title="MOVIE", HITS (MLY)
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
@@ -216,12 +237,6 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2
  
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/movie-png-hd-file-sky-cinema-family-hd-2016-png-1445.png" group-title="MOVIE", FAMILY MOVIES 2
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-
-#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE (MLY)
-http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
-
-#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE SD (MLY)
-http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Diva_Universal.png" group-title="MOVIE", DIVA UNIVERSAL
 http://45.126.83.51/uq2663/h/h11/index2.m3u8
@@ -298,7 +313,7 @@ http://cdn10.uhd4khdr.com/5jia.m3u8
 http://ott-cdn.ucom.am/s81/03.m3u8
 
 #EXTINF:-1, group-title="SPORTS", PPTV 36
-==
+https://pptv36-nkepch.cdn.byteark.com/live/pl_144p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fight_big1.png?v=2.0.0.11" group-title="SPORTS", FIGHT SPORT
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
