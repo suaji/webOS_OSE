@@ -21,7 +21,7 @@ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/RTMBES2018.jpg" group-title="MALAYSIA",RTM BES
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/RTMSPORT2018.jpg" group-title="MALAYSIA",RTM SPORTS
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/RTMSports2019.png" group-title="MALAYSIA",RTM SPORTS
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/1new_webos.jpg" group-title="MALAYSIA",1NEWS
@@ -226,30 +226,30 @@ http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Diva_Universal.png" group-title="MOVIE", DIVA UNIVERSAL
 http://45.126.83.51/uq2663/h/h11/index2.m3u8
 
-#EXTINF:0, RAI MOVIE
+#EXTINF:0, tvg-logo="" group-title="MOVIE", RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
-#EXTINF:-1, WOWOW MOVIES
+#EXTINF:-1, tvg-logo="" group-title="MOVIE", WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
-#EXTINF:-1, 24/7 Hollywood Movies 1
+#EXTINF:-1, tvg-logo="" group-title="MOVIE", 24/7 MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1, 24/7 Hollywood Movies 2
+#EXTINF:-1, tvg-logo="" group-title="MOVIE", 24/7 MOVIES 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1, 24/7 Hollywood Movies 3
+#EXTINF:-1, tvg-logo="" group-title="MOVIE", 24/7 MOVIES 3
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:-1, 24/7 Hollywood Movies 4
+#EXTINF:-1, tvg-logo="" group-title="MOVIE", 24/7 MOVIES 4
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1, 24/7 Hollywood Movies 5
+#EXTINF:-1, tvg-logo="" group-title="MOVIE", 24/7 MOVIES 5
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1,Jackie Chan Movie
+#EXTINF:-1, group-title="MOVIE", Jackie Chan Movie
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1,Stephen Chow Movies
+#EXTINF:-1, group-title="MOVIE", Stephen Chow Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1,Jet Lie Movie
+#EXTINF:-1, group-title="MOVIE", Jet Lie Movie
 http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1, tvg-logo="", VOD : Pokemon Detective Pikachu (HDCAM)
@@ -279,6 +279,9 @@ http://9092.ultratv100.com:9090/movies/Batch219/JhnWck124/JhnWck124.mp4
 #EXTINF:-1, tvg-logo="", VOD : John Wick 2 (2017)
 http://stg.pz10139.parspack.net/Films/John.Wick.Chapter.2.2017/John.Wick.Chapter.2.2017.720p.ShAaNiG.mkv
 
+#EXTINF:-1, tvg-logo="", VOD :John Wick: Chapter 2 (2017) Eng
+http://bestiptv.info:8080/movie/SYZ0xKaN9j/5wYmBkuWld/166097.mp4
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/v9e3T9TK/10/05/2019
 
@@ -302,6 +305,26 @@ http://45.126.83.51/uq2663/h/h05/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", ELEVEN SPORT 1
 http://cdn7.woideas.com/tv11.m3u8
+
+#EXTINF:0 group-title="SPORTS", ELEVEN SPORTS 1 HD
+http://194.88.107.140:6204/AFEOdvNlBf/3zrFg7Q96M/16326
+#EXTINF:0 group-title="SPORTS", ELEVEN SPORTS 2 HD
+http://194.88.107.140:6204/AFEOdvNlBf/3zrFg7Q96M/16325
+#EXTINF:0 group-title="SPORTS", ELEVEN SPORTS 3 HD
+http://194.88.107.140:6204/AFEOdvNlBf/3zrFg7Q96M/14000
+
+#EXTINF:0 group-title="SPORTS", Fox Sports 1
+http://194.88.107.140:6204/AFEOdvNlBf/3zrFg7Q96M/17534
+#EXTINF:0 group-title="SPORTS", Fox Sports 2
+http://194.88.107.140:6204/AFEOdvNlBf/3zrFg7Q96M/17533
+#EXTINF:0 group-title="SPORTS", Fox Sports 3
+http://194.88.107.140:6204/AFEOdvNlBf/3zrFg7Q96M/17532
+#EXTINF:0 group-title="SPORTS", Fox Sports 4
+http://194.88.107.140:6204/AFEOdvNlBf/3zrFg7Q96M/17531
+#EXTINF:0 group-title="SPORTS", Fox Sports 5
+http://194.88.107.140:6204/AFEOdvNlBf/3zrFg7Q96M/17530
+#EXTINF:0 group-title="SPORTS", Fox Sports 6
+http://194.88.107.140:6204/AFEOdvNlBf/3zrFg7Q96M/17529
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 https://www.youtube.com/embed/naW9U8MiUY0
@@ -372,5 +395,5 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 19/06/2019] suaji
-https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTKb93Y0PNJ6iO9ZCYC1NC0Qq6hRTgzg0pBmuzkvM2BKdiqON_C872ssD5mhasWQ5jg&redirect=0
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 22/06/2019] suaji
+https://www.linuxsat-support.com/
