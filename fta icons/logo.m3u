@@ -21,7 +21,7 @@ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/RTMBES2018.jpg" group-title="MALAYSIA",RTM BES
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/RTMSports2019.png" group-title="MALAYSIA",RTM SPORTS
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/RTMSPORT2018.jpg" group-title="MALAYSIA",RTM SPORTS
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/1new_webos.jpg" group-title="MALAYSIA",1NEWS
