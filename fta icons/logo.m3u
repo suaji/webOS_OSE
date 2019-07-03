@@ -354,3 +354,16 @@ http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18622
 http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18621
 #EXTINF:-1,SUPERSPORTS 4
 http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18620
+
+#EXTINF:-1,TVN HD (SOLO CHILE)
+http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/6009.m3u8
+#EXTINF:-1,CL: TVN Full HD
+http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/16258.m3u8
+#EXTINF:-1,CL: TVN HD
+http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/4894.m3u8
+#EXTINF:-1,CL: TVN SD
+http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/4474.m3u8
+#EXTINF:-1,Panama | TVN
+http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/13045.m3u8
+#EXTINF:-1,CHILE | TVN HD
+http://iptv.dns-extreme.info:25461/Jorge/Jorge/9469
