@@ -27,12 +27,6 @@ https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/1new_webos.jpg" group-title="MALAYSIA",1NEWS
 https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/parlimen_webos.jpg" group-title="MALAYSIA",PARLIMEN DEWAN RAKYAT
-==
-
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/parlimen_webos.jpg" group-title="MALAYSIA",PARLIMEN DEWAN NEGARA
-==
-
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
 http://103.82.219.66:6543/live/9B018DFCEDA448F380405340C339AD72/playlist.m3u8?sid=6b8dfbcaa1a84158b4821a4e37625f52&origin=MTAuMjAuNjMuMjAyOjYwNjA=
 
@@ -85,8 +79,7 @@ http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=0
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="INDONESIA",TRANS 7
-==
-http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.145/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/net.png" group-title="INDONESIA",  NET TV
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -105,6 +98,12 @@ http://45.126.83.51/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mediaweek.com.au/wp-content/uploads/2017/01/Sony-ONE.jpg" group-title="KOREAN", SONY ONE (MLY)
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://en3yksrguy-flywheel.netdna-ssl.com/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg" group-title="KOREAN", TVN
+http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
+
+#EXTINF:-1 tvg-logo="http://www.thekdramafanatic.info/wp-content/uploads/2017/11/KdramaFan.png" group-title="KOREAN", K-DRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="KOREAN", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -146,22 +145,16 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",CARTOON NETWORK
-==
+http://ultraplay.biz:80/1qw2/1234/34998
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/hi5tv/images/8/87/Okto.png/revision/latest?cb=20170102042731" group-title="KIDS", OKTO
-==
-
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/1e9ec725-8ff7-2e4a-092e-11de3a4515e9-ClassicToons_thumb.jpg" group-title="KIDS", CLASSIC TOONS TV HD
-==
-
-#EXTINF:0, tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9e3a8364-6268-caa1-53ee-fccdbca198aa-Hero%20Optional%201560x878.jpg" group-title="KIDS", ANIME ALL DAY HD
-==
-
-#EXTINF:0 group-title="KIDS",NONSTOP ANIME
+#EXTINF:0 tvg-logo="" group-title="KIDS",NONSTOP ANIME
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="KIDS", ANIMAX (MLY)
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/630px-Aniplus_Asia_Logo.png" group-title="KIDS",ANI PLUS (MLY)
 http://45.126.83.51/dr9445/h/h02/01.m3u8
@@ -211,32 +204,11 @@ http://45.126.83.51/uq2663/h/h37/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.hitstv.com/img/HITS-WWW-Banner1.png" group-title="MOVIE", HITS (MLY)
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="MOVIE",HBO
-==
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
-==
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX PREMIUM CINEMA
-==
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX PREMIUM CINEMA HD
-==
-
-#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="MOVIE",FOX PREMIUM COMEDY
-==
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", FIRST MOVIE (IND)
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:0, tvg-logo="https://www.directv.com/images/logos/channels/dark/large/564.png" group-title="MOVIE",SHOWTIME
 http://80.80.160.168/live/7/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="MOVIE",&FLIX
-==
-
-#EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/09/andPrive-HD_6.jpg" group-title="MOVIE",&PRIVE
-==
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1007646152177737729/YpGbj4BT_400x400.jpg" group-title="MOVIE",&PICTURES HD
-==
 
 #EXTINF:-1 tvg-logo="http://www.sky.com/tv/static/r3jPy0cN3NuYNkrCi2VIRpfAFOdMgjEaknRogD6Gbuw.png" group-title="MOVIE", FAMILY MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
@@ -373,3 +345,12 @@ http://s1.cmesolution.my:5689/;
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 02/07/2019] suaji
 https://www.linuxsat-support.com/
+
+#EXTINF:-1,SUPERSPORTS 1
+http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18623
+#EXTINF:-1,SUPERSPORTS 2
+http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18622
+#EXTINF:-1,SUPERSPORTS 3
+http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18621
+#EXTINF:-1,SUPERSPORTS 4
+http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18620
