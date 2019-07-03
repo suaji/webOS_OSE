@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="ISLAM",MAKKAH LIVE
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
@@ -93,10 +93,10 @@ http://cdn.nexttvnet.ru/hlsl/23/kbs_world/playlist.m3u8
 #EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS WORLD 2
 http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8
 
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="KOREAN", K-PLUS
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="KOREAN", K-PLUS (MLY)
 http://45.126.83.51/uq2663/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.mediaweek.com.au/wp-content/uploads/2017/01/Sony-ONE.jpg" group-title="KOREAN", SONY ONE
+#EXTINF:-1 tvg-logo="http://www.mediaweek.com.au/wp-content/uploads/2017/01/Sony-ONE.jpg" group-title="KOREAN", SONY ONE (MLY)
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://en3yksrguy-flywheel.netdna-ssl.com/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg" group-title="KOREAN", TVN
@@ -153,13 +153,13 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:0 tvg-logo="" group-title="KIDS",NONSTOP ANIME
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="KIDS", ANIMAX
+#EXTINF:0 tvg-logo="" group-title="KIDS", ANIMAX (MLY)
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/630px-Aniplus_Asia_Logo.png" group-title="KIDS",ANI PLUS
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/630px-Aniplus_Asia_Logo.png" group-title="KIDS",ANI PLUS (MLY)
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/630px-Aniplus_Asia_Logo.png" group-title="KIDS",ANI PLUS 2
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/630px-Aniplus_Asia_Logo.png" group-title="KIDS",ANI PLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" group-title="MOVIE",[COLOR springgreen]:: FAMILY ::[/COLOR]
@@ -184,40 +184,40 @@ http://63.237.48.9/ios/MBC2/MBC2.m3u8
 #EXTINF:0, tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/05/syfy-new-black-logo-featured.jpg" group-title="MOVIE",SYFY
 http://23.237.22.82:8086/udp/127.0.0.1:56063
 
-#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2018/04/BAextreme.jpg" group-title="MOVIE", BLUE ANT EXTREME
+#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2018/04/BAextreme.jpg" group-title="MOVIE", BLUE ANT EXTREME (MLY)
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
-#EXTINF: -1, tvg-logo="http://gobx.com/wp-content/uploads/2017/08/129-My-Cinema-HD.png" group-title="MOVIE", MY CINEMA
+#EXTINF: -1, tvg-logo="http://gobx.com/wp-content/uploads/2017/08/129-My-Cinema-HD.png" group-title="MOVIE", MY CINEMA (MLY)
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
-#EXTINF: -1, tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" group-title="MOVIE", CINEMA WORLD
+#EXTINF: -1, tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" group-title="MOVIE", CINEMA WORLD (MLY)
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
 
-#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE
+#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE (MLY)
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
-#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE 2
+#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE HD (MLY)
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE", KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE", KIX 2
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE", KIX (MLY)
 http://210.210.155.35/uq2663/h/h07/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png" group-title="MOVIE", THRILL
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png" group-title="MOVIE", THRILL 2
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png" group-title="MOVIE", THRILL (MLY)
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hitstv.com/img/HITS-WWW-Banner1.png" group-title="MOVIE", HITS
 http://45.126.83.51/uq2663/h/h37/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hitstv.com/img/HITS-WWW-Banner1.png" group-title="MOVIE", HITS 2
+#EXTINF:-1 tvg-logo="https://www.hitstv.com/img/HITS-WWW-Banner1.png" group-title="MOVIE", HITS (MLY)
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIE", FIRST MOVIE
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", FIRST MOVIE (IND)
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:0, tvg-logo="https://www.directv.com/images/logos/channels/dark/large/564.png" group-title="MOVIE",SHOWTIME
