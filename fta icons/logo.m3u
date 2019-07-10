@@ -165,21 +165,11 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" group-title="MOVIE",[COLOR springgreen]:: FAMILY ::[/COLOR]
 https://pastebin.com/raw/ZzGTySZE/FLUXUSTV
 
-#EXTINF:-1,Fox Premium Action
-http://iptv.wtf:8080/live/fzbuflli/72T5q3jvFy/10717.m3u8
-#EXTINF:-1,Fox Premium Cinema
-http://iptv.wtf:8080/live/fzbuflli/72T5q3jvFy/10716.m3u8
-#EXTINF:-1,Fox Premium Classics
-http://iptv.wtf:8080/live/fzbuflli/72T5q3jvFy/10715.m3u8
-#EXTINF:-1,Fox Premium Comedy
-http://iptv.wtf:8080/live/fzbuflli/72T5q3jvFy/10714.m3u8
-#EXTINF:-1,Fox Premium Family
-http://iptv.wtf:8080/live/fzbuflli/72T5q3jvFy/10713.m3u8
-#EXTINF:-1,Fox Premium Movies
-http://iptv.wtf:8080/live/fzbuflli/72T5q3jvFy/10712.m3u8
-
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
+
+#EXTINF:0, HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 
 #EXTINF:0, tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/05/syfy-new-black-logo-featured.jpg" group-title="MOVIE",SYFY
 http://23.237.22.82:8086/udp/127.0.0.1:56063
@@ -363,8 +353,8 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 02/07/2019] suaji
-https://www.linuxsat-support.com/
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 10/07/2019] suaji
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
 
 #EXTINF:-1,SUPERSPORTS 1
 http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18623
