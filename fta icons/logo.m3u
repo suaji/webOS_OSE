@@ -90,7 +90,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 #EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS WORLD
 http://cdn.nexttvnet.ru/hlsl/23/kbs_world/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS WORLD 2
+#EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS WORLD2
 http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8
 
 #EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="KOREAN", K-PLUS
@@ -104,6 +104,9 @@ http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live
 
 #EXTINF:-1 tvg-logo="http://www.thekdramafanatic.info/wp-content/uploads/2017/11/KdramaFan.png" group-title="KOREAN", K-DRAMA
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/aa/OCN_logo.jpg/revision/latest?cb=20150127083805" group-title="KOREAN", OCN
+http://199.21.149.42:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="KOREAN", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -353,27 +356,5 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 10/07/2019] suaji
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-
-#EXTINF:-1,SUPERSPORTS 1
-http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18623
-#EXTINF:-1,SUPERSPORTS 2
-http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18622
-#EXTINF:-1,SUPERSPORTS 3
-http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18621
-#EXTINF:-1,SUPERSPORTS 4
-http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18620
-
-#EXTINF:-1,TVN HD (SOLO CHILE)
-http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/6009.m3u8
-#EXTINF:-1,CL: TVN Full HD
-http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/16258.m3u8
-#EXTINF:-1,CL: TVN HD
-http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/4894.m3u8
-#EXTINF:-1,CL: TVN SD
-http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/4474.m3u8
-#EXTINF:-1,Panama | TVN
-http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/13045.m3u8
-#EXTINF:-1,CHILE | TVN HD
-http://iptv.dns-extreme.info:25461/Jorge/Jorge/9469
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 19/07/2019] suaji
+http://175.138.73.4:8080
