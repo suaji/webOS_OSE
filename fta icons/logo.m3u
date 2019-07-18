@@ -357,4 +357,13 @@ http://astro3.rastream.com/raaga?type=.flv
 http://s1.cmesolution.my:5689/;
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 19/07/2019] suaji
-http://175.138.73.4:8080
+http://175.138.73.16:8080
+
+#EXTINF:-1,group-title="Film"KIX SD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+ 
+#EXTINF:-1,(ONLINE) KIX
+http://210.210.155.35:80/session/7138a8de-65ba-11e9-ac46-b82a72d63267/uq2663/h/h07/02.m3u8
+ 
+#EXTINF:-1,group-title="Film"KIX HD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
