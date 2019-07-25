@@ -11,6 +11,7 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" group-title="MALAYSIA",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b414000.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv2_webos.jpg" group-title="MALAYSIA",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
@@ -52,7 +53,7 @@ http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/142601
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Surialogo700x525_20130517103430.jpg/revision/latest?cb=20161026075708" group-title="SINGAPORE", SURIA
-==
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png" group-title="INDONESIA",METRO TV
 http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -192,6 +193,9 @@ http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/
 #EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE 2
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 
+#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE 3
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE", KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 
@@ -254,19 +258,34 @@ http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/v9e3T9TK/10/05/2019
 
-#EXTINF:-1 group-title="SPORTS",AD Sports 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 group-title="SPORTS",AD Sports 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sport
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-logo="https://image.ibb.co/fUFZ6z/tvrisport.jpg" group-title="SPORTS",TVRI SPORTS
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="SPORTS", CCTV5+
-http://cdn10.uhd4khdr.com/5jia.m3u8
+#EXTINF:-1 group-title="SPORTS",AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="SPORTS",AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 group-title="SPORTS",AD Sports 1
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1 group-title="SPORTS",AD Sports 2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1 group-title="SPORTS",AD Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 group-title="SPORTS",AD Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 group-title="SPORTS",AD Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 group-title="SPORTS",AD Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1 group-title="SPORTS",AD Sports Extra
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", CCTV5+
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="SPORTS",SETANTA HD
 http://ott-cdn.ucom.am/s81/03.m3u8
@@ -356,7 +375,7 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 19/07/2019] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 26/07/2019] suaji
 http://175.138.73.16:8080
 
 #EXTINF:-1,group-title="Film"KIX SD
