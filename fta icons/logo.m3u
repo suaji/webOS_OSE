@@ -265,6 +265,54 @@ http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", ELEVEN SPORT 1
 http://cdn7.woideas.com/tv11.m3u8
 
+#EXTINF:0,UK: BT SPORT 1 HD
+http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4907
+#EXTINF:0,UK: BT SPORT 2 HD
+http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4903
+#EXTINF:0,UK: EUROSPORTS 1 HD
+http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4892
+#EXTINF:0,UK: EUROSPORT 2 HD
+http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4889
+#EXTINF:0,UK: LIVERPOOL TV
+http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4885
+#EXTINF:0,UK: MAN UNITED TV
+http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4884
+#EXTINF:0,UK: PREMIER SPORT
+http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4877
+#EXTINF:0,UK: RACING
+http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4876
+#EXTINF:0,UK: SKY SPORT F1
+http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4909
+
+#EXTINF:-1,::: VOD :::
+http://ppvplug.net:8000/
+
+#EXTINF:-1,3 Idiots
+http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/91664.mkv
+#EXTINF:-1,Har Dil Jo Pyar Karega
+http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/92044.mkv
+#EXTINF:-1,Hum Tumhare Hain Sanam
+http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/93810.mkv
+#EXTINF:-1,Mann
+http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79180.mkv
+
+#EXTINF:-1,Alita: Battle Angel
+http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/101423.mkv
+#EXTINF:-1,Shazam!
+http://streamsmax.eu:8000/movie/JAYKHANVOD/IIyrTwNovI/84305.mkv
+#EXTINF:-1,John Wick Chapter 2
+http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/92425.mp4
+#EXTINF:-1,John Wick: Chapter 3 – Parabellum
+http://streamsmax.eu:8000/movie/JAYKHANVOD/IIyrTwNovI/88790.mkv
+#EXTINF:-1,The Avengers
+http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/92320.mkv
+#EXTINF:-1,Avengers Age Of Ultron
+http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/92242.mkv
+#EXTINF:-1,Avengers Infinity War
+http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/92241.mkv
+#EXTINF:-1,Avengers: Endgame
+http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/90287.mkv
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 https://www.youtube.com/embed/naW9U8MiUY0
 
