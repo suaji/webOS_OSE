@@ -9,18 +9,20 @@ http://45.126.83.51/qwr9ew/s/s27/index2.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ikimtv_webos.jpg" group-title="MALAYSIA",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" group-title="MALAYSIA",TV1 SD
+http://rtm1mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" group-title="MALAYSIA",TV1
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b414000.m3u8
+http://rtm1mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv2_webos.jpg" group-title="MALAYSIA",TV2
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+http://rtm2mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/okey_webos.jpg" group-title="MALAYSIA",OKEY
-https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+http://rtm1mobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/rtmbes2020.jpg" group-title="MALAYSIA",RTM BES
-https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+http://rtm1mobile.secureswiftcontent.com:80/Origin02/ngrp:RTM3/chunklist_b3696000.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/rtmsports2020.jpg" group-title="MALAYSIA",RTM SPORTS
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
