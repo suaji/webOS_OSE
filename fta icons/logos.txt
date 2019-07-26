@@ -1,3 +1,28 @@
+
+var url = window.location.href;
+        var channel = url.split("?channel=")[1];
+        var video_id = 'k3GVzd2cWbveXyrApah';
+        if(channel) {
+            if(channel == 'tv3') {
+                video_id = 'k3GVzd2cWbveXyrApah';
+            } else if (channel == 'ntv7') {
+                video_id = 'kxm1wihUkjNiINrAqlg';
+            } else if (channel == '8tv') {
+                video_id = 'kdFzSYy1bHxrForBrar';
+            } else if (channel == 'tv9'){
+                video_id = 'k1FijVynGNsZ2ZrAGJ0';
+            } else {
+                video_id = 'x6zvnex';
+            }
+        }
+
+https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah tv3
+https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg ntv7
+https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar 8tv
+https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0 tv9
+https://www.dailymotion.com/embed/video/x6zvnex				dramasgt
+
+
 #EXTM3U
 
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="ISLAM",MAKKAH LIVE
@@ -365,50 +390,3 @@ http://s1.cmesolution.my:5689/;
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 02/07/2019] suaji
 https://www.linuxsat-support.com/
-
-#EXTINF:-1,SUPERSPORTS 1
-http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18623
-#EXTINF:-1,SUPERSPORTS 2
-http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18622
-#EXTINF:-1,SUPERSPORTS 3
-http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18621
-#EXTINF:-1,SUPERSPORTS 4
-http://energyiptv.streamtv.to:8080/CdwPUTDvW6/ZdSaTIKgZm/18620
-
-#EXTINF:-1,TVN HD (SOLO CHILE)
-http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/6009.m3u8
-#EXTINF:-1,CL: TVN Full HD
-http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/16258.m3u8
-#EXTINF:-1,CL: TVN HD
-http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/4894.m3u8
-#EXTINF:-1,CL: TVN SD
-http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/4474.m3u8
-#EXTINF:-1,Panama | TVN
-http://ca.stablechannels.tv:8080/live/NazCyDq74/96wkWzx37Y/13045.m3u8
-#EXTINF:-1,CHILE | TVN HD
-http://iptv.dns-extreme.info:25461/Jorge/Jorge/9469
-
-https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah tv3
-https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg ntv7
-https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar 8tv
-https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0 tv9
-https://www.dailymotion.com/embed/video/x6zvnex				dramasgt
-
-
-var url = window.location.href;
-        var channel = url.split("?channel=")[1];
-        var video_id = 'k3GVzd2cWbveXyrApah';
-        if(channel) {
-            if(channel == 'tv3') {
-                video_id = 'k3GVzd2cWbveXyrApah';
-            } else if (channel == 'ntv7') {
-                video_id = 'kxm1wihUkjNiINrAqlg';
-            } else if (channel == '8tv') {
-                video_id = 'kdFzSYy1bHxrForBrar';
-            } else if (channel == 'tv9'){
-                video_id = 'k1FijVynGNsZ2ZrAGJ0';
-            } else {
-                video_id = 'x6zvnex';
-            }
-        }
-
