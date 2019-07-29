@@ -210,7 +210,7 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 #EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE (VLC)
 http://211.245.55.198:22515/m2u/239.192.69.14:49220
 
-#EXTINF:-1,Asia UHD
+#EXTINF:-1,ASIA UHD
 http://211.245.55.198:22515/m2u/239.192.81.38:49220
 
 #EXTINF:-1,AMC
