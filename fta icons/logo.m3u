@@ -1,5 +1,10 @@
 ﻿#EXTM3U
 
+#EXTINF:-1, GOOGLE SHUTDOWN goo.gl
+http://bit.ly/2GzJVNI
+#EXTINF:-1, New Link : http://bit.ly/2GzJVNI
+http://bit.ly/2GzJVNI
+
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="ISLAM",MAKKAH LIVE
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
@@ -92,6 +97,12 @@ http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=0
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="INDONESIA",TRANS 7
 http://202.80.222.145/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="INDONESIA",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="INDONESIA",TRANS 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/net.png" group-title="INDONESIA",  NET TV
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -404,4 +415,4 @@ http://astro3.rastream.com/raaga?type=.flv
 http://s1.cmesolution.my:5689/;
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 30/07/2019] suaji
-http://175.138.73.16:8080
+http://goo.gl/bE7dQL/\http://goo.gl/oEFCVy
