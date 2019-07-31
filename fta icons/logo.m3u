@@ -215,7 +215,25 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 #EXTINF:0, tvg-logo="https://www.directv.com/images/logos/channels/dark/large/564.png" group-title="MOVIE",SHOWTIME
 http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:0,group-title="CHANELL FILM",WARNER TV
+#EXTINF:-1,group-title="MOVIE",CINEMAX HD
+http://tvku.live:8888/jensu/UttZNYE1ri/796
+#EXTINF:-1,group-title="MOVIE",HBO HD
+http://tvku.live:8888/jensu/UttZNYE1ri/1496
+#EXTINF:0,group-title="MOVIE",HBO 2 HD
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,group-title="MOVIE",HBO FAMILY HD
+http://tvku.live:8888/jensu/UttZNYE1ri/592
+#EXTINF:-1,group-title="MOVIE",HBO HITS HD
+http://tvku.live:8888/jensu/UttZNYE1ri/591
+#EXTINF:-1,group-title="MOVIE",HBO SIGNATURE HD
+http://tvku.live:8888/jensu/UttZNYE1ri/873
+#EXTINF:-1,group-title="MOVIE",FOX MOVIES HD
+http://tvku.live:8888/jensu/UttZNYE1ri/98
+#EXTINF:-1,group-title="MOVIE",FOX ACTION MOVIES HD
+http://tvku.live:8888/jensu/UttZNYE1ri/99
+#EXTINF:0,group-title="MOVIE",FOX FAMILY MOVIES HD
+http://tvku.live:8888/jensu/UttZNYE1ri/100
+#EXTINF:0,group-title="MOVIE",WARNER TV HD
 http://tvku.live:8888/jensu/UttZNYE1ri/865
 
 #EXTINF:0, tvg-logo="" group-title="MOVIE", RAI MOVIE
