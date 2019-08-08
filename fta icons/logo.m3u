@@ -2,8 +2,8 @@
 
 #EXTINF:-1, GOOGLE SHUTDOWN goo.gl
 http://bit.ly/2GzJVNI
-#EXTINF:-1, New Link : http://bit.ly/2GzJVNI
-http://bit.ly/2GzJVNI
+#EXTINF:-1, NEW:http_bit_ly/2GzJVNI
+http://USBCameraModule.com
 
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="ISLAM",MAKKAH LIVE
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
@@ -195,13 +195,10 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 http://211.245.55.198:22515/m2u/239.192.65.17:49220
 
 #EXTINF:-1,Animax
-http://211.245.55.198:22515/m2u/239.192.69.43:49220
+==
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/630px-Aniplus_Asia_Logo.png" group-title="KIDS",ANI PLUS
-http://45.126.83.51/dr9445/h/h02/01.m3u8
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/630px-Aniplus_Asia_Logo.png" group-title="KIDS",ANI PLUS 2
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+==
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" group-title="MOVIE",[COLOR springgreen]:: FAMILY ::[/COLOR]
 https://pastebin.com/raw/ZzGTySZE/FLUXUSTV
@@ -326,25 +323,6 @@ http://ott-cdn.ucom.am/s81/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", ELEVEN SPORT 1
 http://cdn7.woideas.com/tv11.m3u8
-
-#EXTINF:0,UK: BT SPORT 1 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4907
-#EXTINF:0,UK: BT SPORT 2 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4903
-#EXTINF:0,UK: EUROSPORTS 1 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4892
-#EXTINF:0,UK: EUROSPORT 2 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4889
-#EXTINF:0,UK: LIVERPOOL TV
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4885
-#EXTINF:0,UK: MAN UNITED TV
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4884
-#EXTINF:0,UK: PREMIER SPORT
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4877
-#EXTINF:0,UK: RACING
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4876
-#EXTINF:0,UK: SKY SPORT F1
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4909
 
 #EXTINF:-1,::: VOD :::
 http://ppvplug.net:8000/
