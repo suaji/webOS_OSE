@@ -165,7 +165,7 @@ https://pastebin.com/Q70AN0JK
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
-==
+http://sghub.ml:80/ali/ali/5637
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
@@ -194,12 +194,6 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1,Nickelodeon
 http://211.245.55.198:22515/m2u/239.192.65.17:49220
 
-#EXTINF:-1,Animax
-==
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/630px-Aniplus_Asia_Logo.png" group-title="KIDS",ANI PLUS
-==
-
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" group-title="MOVIE",[COLOR springgreen]:: FAMILY ::[/COLOR]
 https://pastebin.com/raw/ZzGTySZE/FLUXUSTV
 
@@ -211,27 +205,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 
 #EXTINF:0, tvg-logo="https://www.directv.com/images/logos/channels/dark/large/564.png" group-title="MOVIE",SHOWTIME
 http://80.80.160.168/live/7/live.m3u8
-
-#EXTINF:-1,group-title="MOVIE",CINEMAX HD
-http://tvku.live:8888/jensu/UttZNYE1ri/796
-#EXTINF:-1,group-title="MOVIE",HBO HD
-http://tvku.live:8888/jensu/UttZNYE1ri/1496
-#EXTINF:0,group-title="MOVIE",HBO 2 HD
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1,group-title="MOVIE",HBO FAMILY HD
-http://tvku.live:8888/jensu/UttZNYE1ri/592
-#EXTINF:-1,group-title="MOVIE",HBO HITS HD
-http://tvku.live:8888/jensu/UttZNYE1ri/591
-#EXTINF:-1,group-title="MOVIE",HBO SIGNATURE HD
-http://tvku.live:8888/jensu/UttZNYE1ri/873
-#EXTINF:-1,group-title="MOVIE",FOX MOVIES HD
-http://tvku.live:8888/jensu/UttZNYE1ri/98
-#EXTINF:-1,group-title="MOVIE",FOX ACTION MOVIES HD
-http://tvku.live:8888/jensu/UttZNYE1ri/99
-#EXTINF:0,group-title="MOVIE",FOX FAMILY MOVIES HD
-http://tvku.live:8888/jensu/UttZNYE1ri/100
-#EXTINF:0,group-title="MOVIE",WARNER TV HD
-http://tvku.live:8888/jensu/UttZNYE1ri/865
 
 #EXTINF:0, tvg-logo="" group-title="MOVIE", RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
@@ -247,18 +220,6 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 
 #EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE (VLC)
 http://211.245.55.198:22515/m2u/239.192.69.14:49220
-
-#EXTINF:-1,ASIA UHD
-http://211.245.55.198:22515/m2u/239.192.81.38:49220
-
-#EXTINF:-1,AMC
-http://211.245.55.198:22515/m2u/239.192.66.7:49220
- 
-#EXTINF:-1,FOX
-http://211.245.55.198:22515/m2u/239.192.57.4:49220
- 
-#EXTINF:-1,AXN
-http://211.245.55.198:22515/m2u/239.192.69.48:49220
 
 #EXTINF:-1, tvg-logo="" group-title="MOVIE", 24/7 MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
@@ -279,6 +240,18 @@ http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2
 
 #EXTINF:-1, group-title="MOVIE", Jet Lie Movie
 http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,ASIA UHD
+http://211.245.55.198:22515/m2u/239.192.81.38:49220
+
+#EXTINF:-1,AMC
+http://211.245.55.198:22515/m2u/239.192.66.7:49220
+ 
+#EXTINF:-1,FOX
+http://211.245.55.198:22515/m2u/239.192.57.4:49220
+ 
+#EXTINF:-1,AXN
+http://211.245.55.198:22515/m2u/239.192.69.48:49220
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/v9e3T9TK/10/05/2019
@@ -315,11 +288,14 @@ http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="SPORTS",SETANTA HD
 http://ott-cdn.ucom.am/s81/03.m3u8
 
-#EXTINF:-1, group-title="SPORTS", PPTV 36
-==
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fight_big1.png?v=2.0.0.11" group-title="SPORTS", FIGHT SPORT
-==
+#EXTINF:-1,Super Sport 1 HD
+http://sghub.ml:80/ali/ali/38157
+#EXTINF:-1,Super Sport 2 HD
+http://sghub.ml:80/ali/ali/38158
+#EXTINF:-1,Super Sport 3 HD
+http://sghub.ml:80/ali/ali/38159
+#EXTINF:-1,Super Sport 4 HD
+http://sghub.ml:80/ali/ali/38160
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", ELEVEN SPORT 1
 http://cdn7.woideas.com/tv11.m3u8
