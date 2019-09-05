@@ -365,6 +365,9 @@ http://astro4.rastream.com/india
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/08/kinabalu-highway-station-1.jpg" group-title="RADIO",Kinabalu Highway Station
 http://5.63.151.52:7236/khsfm?1534573997322
 
+#EXTINF:0, tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png" group-title="RADIO",KOOL FM
+http://mediaprima.rastream.com/mediaprima-koolfm
+
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/Melaka-FM.jpg" group-title="RADIO",MELAKA FM
 http://60.51.171.229:8080/;stream.mp3?type=.mp3/;stream.mp3
 
@@ -389,6 +392,9 @@ http://listen.radioking.com/radio/99241/stream/137962
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/sinar-fm.jpg" group-title="RADIO",SINAR FM
 http://astro2.rastream.com/sinar
 
+#EXTINF:0, tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/suria-fm.png" group-title="RADIO", SURIA FM
+http://starrfm.rastream.com/starrfm-suria
+
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/thr-gegar.jpg" group-title="RADIO",THR GEGAR
 http://astro3.rastream.com/gegar
 
@@ -398,5 +404,8 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:0, tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/02/Wanita4u-FM.jpg" group-title="RADIO",WANITA4U FM
 http://s1.cmesolution.my:5689/;
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 01/08/2019] suaji
+#EXTINF:0, tvg-logo="https://cdn.webrad.io/images/logos/radiosingapore-org/warna.png" group-title="RADIO", WARNA (SG)
+https://19183.live.streamtheworld.com/WARNA942FMAAC.aac?dist=radiosingapore
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 05/09/2019] suaji
 http://goo.gl/bE7dQL/\http://goo.gl/oEFCVy
