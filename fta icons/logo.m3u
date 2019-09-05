@@ -104,41 +104,21 @@ http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=0
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="INDONESIA",TRANS 7
 http://202.80.222.145/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="INDONESIA",TRANS TV HD
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="INDONESIA",TRANS 7 HD
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/net.png" group-title="INDONESIA",  NET TV
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA", DANGDUT TV
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS WORLD
-http://cdn.nexttvnet.ru/hlsl/23/kbs_world/playlist.m3u8
+//#EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS WORLD
 
-#EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS WORLD2
-http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8
 
-#EXTINF:-1 tvg-logo="https://en3yksrguy-flywheel.netdna-ssl.com/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg" group-title="KOREAN", TVN
-http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
+//#EXTINF:-1 tvg-logo="https://en3yksrguy-flywheel.netdna-ssl.com/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg" group-title="KOREAN", TVN
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/aa/OCN_logo.jpg/revision/latest?cb=20150127083805" group-title="KOREAN", OCN
-http://199.21.149.42:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="KOREAN", ARIRANG
+//#EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="KOREAN", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="KOREAN", K-PLUS
-==
-
-#EXTINF:-1 tvg-logo="http://www.mediaweek.com.au/wp-content/uploads/2017/01/Sony-ONE.jpg" group-title="KOREAN", SONY ONE
-==
-
-#EXTINF:-1 tvg-logo="http://www.thekdramafanatic.info/wp-content/uploads/2017/11/KdramaFan.png" group-title="KOREAN", K-DRAMA
-==
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="NEWS",[COLOR slateblue]:: NEWS ::[/COLOR]
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8(SD)
@@ -146,11 +126,11 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 #EXTINF:0, tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NEWS", AL JAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS", BLOOMBERG TV
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+//#EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS", BLOOMBERG TV
 
-#EXTINF:0, tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png" group-title="NEWS", CHANNEL NEWS ASIA
-http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+
+//#EXTINF:0, tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png" group-title="NEWS", CHANNEL NEWS ASIA
+
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/ovq/kisspng-al-jazeera-sky-news-logo-television-news-5abc943fda39d8.6400434815223081598939.jpg" group-title="NEWS", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
@@ -170,26 +150,21 @@ http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u
 #EXTINF:0, tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zKhf1GQ6vWnChIFmwDZnfHe46f4=/640x360/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="INDONESIA",GTV
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, tvg-logo="http://areyouafoodie.com/wp-content/uploads/2017/04/Foodie-Logo-FN.png" group-title="KIDS",FOODIE
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+#EXTINF:-1,Baby TV
+http://211.245.55.198:22515/m2u/239.192.69.81:49220
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/Kr-ebs-u.jpg" group-title="KIDS",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1,Baby TV
-http://211.245.55.198:22515/m2u/239.192.69.81:49220
- 
 #EXTINF:-1,JEI English
 http://211.245.55.198:22515/m2u/239.192.69.138:49220
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",CARTOON NETWORK
-http://ultraplay.biz:80/1qw2/1234/34998
-
-#EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
 #EXTINF:-1,Nickelodeon
 http://211.245.55.198:22515/m2u/239.192.65.17:49220
+
+//#EXTINF:-1 tvg-logo="" group-title="KIDS",CARTOON NETWORK
+
+//#EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" group-title="MOVIE",[COLOR springgreen]:: FAMILY ::[/COLOR]
 https://pastebin.com/raw/ZzGTySZE/FLUXUSTV
@@ -238,7 +213,7 @@ http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2
 #EXTINF:-1, group-title="MOVIE", Jet Lie Movie
 http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1,ASIA UHD
+#EXTINF:-1,ASIA UHD (VLC)
 http://211.245.55.198:22515/m2u/239.192.81.38:49220
 
 #EXTINF:-1,AMC
@@ -284,47 +259,6 @@ http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="SPORTS",SETANTA HD
 http://ott-cdn.ucom.am/s81/03.m3u8
-
-#EXTINF:-1,Super Sport 1 HD
-http://sghub.ml:80/ali/ali/38157
-#EXTINF:-1,Super Sport 2 HD
-http://sghub.ml:80/ali/ali/38158
-#EXTINF:-1,Super Sport 3 HD
-http://sghub.ml:80/ali/ali/38159
-#EXTINF:-1,Super Sport 4 HD
-http://sghub.ml:80/ali/ali/38160
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", ELEVEN SPORT 1
-http://cdn7.woideas.com/tv11.m3u8
-
-#EXTINF:-1,::: VOD :::
-http://ppvplug.net:8000/
-
-#EXTINF:-1,3 Idiots
-http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/91664.mkv
-#EXTINF:-1,Har Dil Jo Pyar Karega
-http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/92044.mkv
-#EXTINF:-1,Hum Tumhare Hain Sanam
-http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/93810.mkv
-#EXTINF:-1,Mann
-http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/79180.mkv
-
-#EXTINF:-1,Alita: Battle Angel
-http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/101423.mkv
-#EXTINF:-1,Shazam!
-http://streamsmax.eu:8000/movie/JAYKHANVOD/IIyrTwNovI/84305.mkv
-#EXTINF:-1,John Wick Chapter 2
-http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/92425.mp4
-#EXTINF:-1,John Wick: Chapter 3 – Parabellum
-http://streamsmax.eu:8000/movie/JAYKHANVOD/IIyrTwNovI/88790.mkv
-#EXTINF:-1,The Avengers
-http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/92320.mkv
-#EXTINF:-1,Avengers Age Of Ultron
-http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/92242.mkv
-#EXTINF:-1,Avengers Infinity War
-http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/92241.mkv
-#EXTINF:-1,Avengers: Endgame
-http://ppvplug.net:8000/movie/eY4VO1PRUN/lfKDdTNJxi/90287.mkv
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 https://www.youtube.com/embed/naW9U8MiUY0
