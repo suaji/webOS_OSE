@@ -225,6 +225,15 @@ http://211.245.55.198:22515/m2u/239.192.57.4:49220
 #EXTINF:-1,AXN
 http://211.245.55.198:22515/m2u/239.192.69.48:49220
 
+#EXTINF:-1,AXN
+http://hvod.imirun.net:8080/AXN/index.m3u8
+#EXTINF:-1,SONY HD
+http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
+#EXTINF:-1,SYFY HD
+http://hvod.imirun.net:8080/SyFyHD/index.m3u8
+#EXTINF:-1,WARNNER CHANNEL HD
+http://hvod.imirun.net:8080/Warner-Channel-HD/index.m3u8
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/v9e3T9TK/10/05/2019
 
@@ -259,6 +268,13 @@ http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="SPORTS",SETANTA HD
 http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1,SPORTV HD
+http://hvod.imirun.net:8080/SporTV-HD/index.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://hvod.imirun.net:8080/SporTV-2-HD/index.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://hvod.imirun.net:8080/SporTV-3-HD/index.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 https://www.youtube.com/embed/naW9U8MiUY0
