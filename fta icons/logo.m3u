@@ -276,6 +276,39 @@ http://hvod.imirun.net:8080/SporTV-2-HD/index.m3u8
 #EXTINF:-1,SPORTV 3 HD
 http://hvod.imirun.net:8080/SporTV-3-HD/index.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://enjoy.zendesk.com/hc/article_attachments/360004423072/6112-vod-explanation.jpg" group-title="VOD",V.O.D
+http://103.91.144.230/ftpdata/Movies/
+
+#EXTINF:0, tvg-logo="" group-title="VOD", Fast & Furious Presents: Hobbs & Shaw (2019) HD
+http://dl.mellimovies.com/Movie_EN/98/5/Hobbs.And.Shaw.2019/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.WEB-DL.mkv
+
+#EXTINF:0, tvg-logo="" group-title="VOD", Fast & Furious Presents: Hobbs & Shaw (2019) HDCAM
+http://103.91.144.230/ftpdata/Movies/Hollywood/2019/Fast%20%26%20Furious%20Presents%20Hobbs%20%26%20Shaw%20%282019%29/WwW.SeeHD.WS__Fast%20and%20Furious%20Presents%20Hobbs%20and.Shaw%202019%20720p%20HDCAM-ORCA88.mkv
+
+#EXTINF:0, tvg-logo="" group-title="VOD", The Fate Of The Furious (2017)
+http://5.189.162.136/The%20Fate%20Of%20The%20Furious%20(2017)%20%5B1080p%5D%20%5BYTS.AG%5D/The.Fate.Of.The.Furious.2017.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+
+#EXTINF:0, tvg-logo="" group-title="VOD", Furious 7 (2015)
+http://9092.ultratv100.com:9090/movies/Batch219/Furious%207%20%282015%29/Furious%207%20%282015%29.mp4
+
+#EXTINF:0, tvg-logo="" group-title="VOD", Fast & Furious 6 (2013)
+http://video.rtv21.tv/video/stream/filma/Filma_Besi/6.%20Fast___Furious_6_2013_Extended_1080p_Filma24-Al.mp4
+
+#EXTINF:0, tvg-logo="" group-title="VOD", Fast Five (2011)
+http://dl2.dlshare.ir/film/2016-5/Fast.Five.2011.1080p.HeyDL.mkv
+
+#EXTINF:0, tvg-logo="" group-title="VOD", Fast & Furious 4 (2009)
+http://video.rtv21.tv/video/stream/filma/Filma_Besi/4.%20Fast_And_Furious_2009_1080p_Filma24-Al.com_2.mp4
+
+#EXTINF:0, tvg-logo="" group-title="VOD", The Fast And The Furious: Tokyo Drift (2006)
+http://video.rtv21.tv/video/stream/filma/Filma_Besi/3.%20The_Fast_and_the_Furious_Tokyo_Drift__2006__Filma24-al.com_4.mp4
+
+#EXTINF:0, tvg-logo="" group-title="VOD", 2 Fast 2 Furious (2003)
+http://video.rtv21.tv/video/stream/filma/Filma_Besi/2.%202%20Fast%202%20Furious.mp4
+
+#EXTINF:0, tvg-logo="" group-title="VOD", The Fast and The Furious (2001)
+http://video.rtv21.tv/video/stream/filma/Filma_Besi/1.The_Fast_and_the_Furious_2001_720p.mp4
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 https://www.youtube.com/embed/naW9U8MiUY0
 
