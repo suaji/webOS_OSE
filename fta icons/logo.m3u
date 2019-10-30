@@ -111,10 +111,17 @@ http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA", DANGDUT TV
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
+#EXTINF:-1,K+
+http://210.210.155.35/uq2663/h/h08/index1.m3u8
+
+#EXTINF:0,KIX
+http://210.210.155.35/uq2663/h/h07/index1.m3u8
+
 #EXTINF:0,KIX HD
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 
-//#EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS WORLD
+#EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="KOREAN", KBS WORLD
+http://ununiptv.duckdns.org:2211/rtp/232.84.2.136:9612
 
 //#EXTINF:-1 tvg-logo="https://en3yksrguy-flywheel.netdna-ssl.com/wp-content/uploads/tvN-Logo-South-Korea-BPO.jpg" group-title="KOREAN", TVN
 
@@ -165,12 +172,21 @@ http://211.245.55.198:22515/m2u/239.192.65.17:49220
 //#EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" group-title="MOVIE",[COLOR springgreen]:: FAMILY ::[/COLOR]
-https://pastebin.com/raw/ZzGTySZE/FLUXUSTV
+https://www.youtube.com/watch?v=YFCNyUfbJyU
 
 #EXTINF:-1,&Flix HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1,&Prive HD
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+
+#EXTINF:-1, HBO
+http://ununiptv.duckdns.org:2211/rtp/232.84.2.138:10648
+
+#EXTINF:-1,Star Movies HD
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+
+#EXTINF:-1,Star Movies HongKong
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
@@ -283,37 +299,7 @@ http://hvod.imirun.net:8080/SporTV-2-HD/index.m3u8
 http://hvod.imirun.net:8080/SporTV-3-HD/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://enjoy.zendesk.com/hc/article_attachments/360004423072/6112-vod-explanation.jpg" group-title="VOD",V.O.D
-http://103.91.144.230/ftpdata/Movies/
-
-#EXTINF:0, tvg-logo="" group-title="VOD", Fast & Furious Presents: Hobbs & Shaw (2019) HD
-http://dl.mellimovies.com/Movie_EN/98/5/Hobbs.And.Shaw.2019/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.1080p.WEB-DL.mkv
-
-#EXTINF:0, tvg-logo="" group-title="VOD", Fast & Furious Presents: Hobbs & Shaw (2019) HDCAM
-http://103.91.144.230/ftpdata/Movies/Hollywood/2019/Fast%20%26%20Furious%20Presents%20Hobbs%20%26%20Shaw%20%282019%29/WwW.SeeHD.WS__Fast%20and%20Furious%20Presents%20Hobbs%20and.Shaw%202019%20720p%20HDCAM-ORCA88.mkv
-
-#EXTINF:0, tvg-logo="" group-title="VOD", The Fate Of The Furious (2017)
-http://5.189.162.136/The%20Fate%20Of%20The%20Furious%20(2017)%20%5B1080p%5D%20%5BYTS.AG%5D/The.Fate.Of.The.Furious.2017.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
-
-#EXTINF:0, tvg-logo="" group-title="VOD", Furious 7 (2015)
-http://9092.ultratv100.com:9090/movies/Batch219/Furious%207%20%282015%29/Furious%207%20%282015%29.mp4
-
-#EXTINF:0, tvg-logo="" group-title="VOD", Fast & Furious 6 (2013)
-http://video.rtv21.tv/video/stream/filma/Filma_Besi/6.%20Fast___Furious_6_2013_Extended_1080p_Filma24-Al.mp4
-
-#EXTINF:0, tvg-logo="" group-title="VOD", Fast Five (2011)
-http://dl2.dlshare.ir/film/2016-5/Fast.Five.2011.1080p.HeyDL.mkv
-
-#EXTINF:0, tvg-logo="" group-title="VOD", Fast & Furious 4 (2009)
-http://video.rtv21.tv/video/stream/filma/Filma_Besi/4.%20Fast_And_Furious_2009_1080p_Filma24-Al.com_2.mp4
-
-#EXTINF:0, tvg-logo="" group-title="VOD", The Fast And The Furious: Tokyo Drift (2006)
-http://video.rtv21.tv/video/stream/filma/Filma_Besi/3.%20The_Fast_and_the_Furious_Tokyo_Drift__2006__Filma24-al.com_4.mp4
-
-#EXTINF:0, tvg-logo="" group-title="VOD", 2 Fast 2 Furious (2003)
-http://video.rtv21.tv/video/stream/filma/Filma_Besi/2.%202%20Fast%202%20Furious.mp4
-
-#EXTINF:0, tvg-logo="" group-title="VOD", The Fast and The Furious (2001)
-http://video.rtv21.tv/video/stream/filma/Filma_Besi/1.The_Fast_and_the_Furious_2001_720p.mp4
+//http://103.91.144.230/ftpdata/Movies/
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/radio_1.png" group-title="RADIO",[COLOR gold][:: RADIO ::][/COLOR]
 https://www.youtube.com/embed/naW9U8MiUY0
@@ -393,5 +379,11 @@ http://s1.cmesolution.my:5689/;
 #EXTINF:0, tvg-logo="https://cdn.webrad.io/images/logos/radiosingapore-org/warna.png" group-title="RADIO", WARNA (SG)
 https://19183.live.streamtheworld.com/WARNA942FMAAC.aac?dist=radiosingapore
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 25/10/2019] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 31/10/2019] suaji
 http://goo.gl/bE7dQL/\http://goo.gl/oEFCVy
+
+#EXTINF:0, TV3 (KODI)
+plugin://plugin.video.dailymotion_com/?url=%k3GVzd2cWbveXyrApah%&mode=playVideo
+
+#EXTINF:0, TV3 HD (KODI)
+https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
