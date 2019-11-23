@@ -7,12 +7,13 @@ http://USBCameraModule.com
 
 //#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="ISLAM",MAKKAH LIVE
 
-
 //#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="ISLAM",MADINA LIVE
-
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ikimtv_webos.jpg" group-title="MALAYSIA",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ikimtv_webos.jpg" group-title="MALAYSIA",TV IKIM HD
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" group-title="MALAYSIA",TV1
 http://rtm1mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/playlist.m3u8
@@ -176,6 +177,7 @@ https://www.youtube.com/watch?v=YFCNyUfbJyU
 
 #EXTINF:-1,&Flix HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+
 #EXTINF:-1,&Prive HD
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 
