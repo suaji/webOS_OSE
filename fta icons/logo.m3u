@@ -79,7 +79,10 @@ http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 
 //#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="INDONESIA", RCTI
 //#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA", MNC TV
-//EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA", MNC+
+
+EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA", MNC+
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
 //#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="INDONESIA",ANTV
 
 
