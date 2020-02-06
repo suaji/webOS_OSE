@@ -100,6 +100,30 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="INDONESIA", DANGDUT TV
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",TVN (NEW)
+https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",TVN MOVIES (NEW)
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",KIX (NEW)
+https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",CELESTIAL MOVIES (NEW)
+https://anevia115.mncnow.id:443/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",HITS (NEW)
+https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",HITS MOVIES (NEW)
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",CINEMA WORLD (NEW)
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",THRILL (NEW)
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+
 #EXTINF:-1,K+
 http://210.210.155.35/uq2663/h/h08/index1.m3u8
 
@@ -372,8 +396,9 @@ http://s1.cmesolution.my:5689/;
 #EXTINF:0, tvg-logo="https://cdn.webrad.io/images/logos/radiosingapore-org/warna.png" group-title="RADIO", WARNA (SG)
 https://19183.live.streamtheworld.com/WARNA942FMAAC.aac?dist=radiosingapore
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 18/12/2019] suaji
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 07/02/2020] suaji
 http://goo.gl/bE7dQL/\http://goo.gl/oEFCVy
+##http://atvlauncher.trekgonewild.de/index.php
 
 #EXTINF:0, TV3 (KODI)
 plugin://plugin.video.dailymotion_com/?url=%k3GVzd2cWbveXyrApah%&mode=playVideo
