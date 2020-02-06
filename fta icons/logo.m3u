@@ -50,6 +50,9 @@ http://rtm1mobile.secureswiftcontent.com:80/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/1new_webos.jpg" group-title="MALAYSIA",1NEWS HD
 http://rtm1mobile.secureswiftcontent.com:80/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",ASIAN FOOD CHANNEL (NEW)
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
+
 //EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
 //EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7
 //EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tva_webos.jpg" group-title="MALAYSIA",8TV
@@ -77,8 +80,11 @@ https://cdn-livetv1.metube.id/hls/tvri_240/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA", INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 
-//#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="INDONESIA", RCTI
-//#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA", MNC TV
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="INDONESIA", RCTI
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA", MNC TV
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
 EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA", MNC+
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
@@ -162,11 +168,26 @@ https://pastebin.com/Q70AN0JK
 #EXTINF:0, NASA
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
-http://sghub.ml:80/ali/ali/5637
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET (NEW)
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Animax
+https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",BABY TV
+https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",BOOMERANG
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",CARTOON NETWORK
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY CHANNEL
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",KIDS TV
+https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_1000000=9-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",NICK JR
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
 
 #EXTINF:0, tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zKhf1GQ6vWnChIFmwDZnfHe46f4=/640x360/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="INDONESIA",GTV
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -398,7 +419,7 @@ https://19183.live.streamtheworld.com/WARNA942FMAAC.aac?dist=radiosingapore
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 07/02/2020] suaji
 http://goo.gl/bE7dQL/\http://goo.gl/oEFCVy
-##http://atvlauncher.trekgonewild.de/index.php
+##https://pastebin.com/tcV8hpYY
 
 #EXTINF:0, TV3 (KODI)
 plugin://plugin.video.dailymotion_com/?url=%k3GVzd2cWbveXyrApah%&mode=playVideo
