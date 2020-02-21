@@ -45,6 +45,9 @@ EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",ASIAN FOOD CHANNEL (NEW)
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3 (HW+)
+https://dl.dropbox.com/s/5e4k9czqgql8p25/TV3.m3u8?dl=0
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
 https://www.layarperak.tv/media/live4k.m3u8
 
@@ -93,7 +96,6 @@ EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_lo
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
 //#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="INDONESIA",ANTV
-
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/GlobalTV_%28Indonesia%29.svg/2000px-GlobalTV_%28Indonesia%29.svg.png" group-title="INDONESIA",GLOBALTV
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
