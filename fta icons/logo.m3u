@@ -52,19 +52,19 @@ https://dl.dropbox.com/s/5e4k9czqgql8p25/TV3.m3u8?dl=0
 https://www.layarperak.tv/media/live4k.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3 (LAYARPERAK)
-https://raw.githubusercontent.com/suaji/IPTV/master/M3U8/Token/TV3.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7
-https://raw.githubusercontent.com/suaji/IPTV/master/M3U8/Token/NTV7.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tva_webos.jpg" group-title="MALAYSIA",8TV
-https://raw.githubusercontent.com/suaji/IPTV/master/M3U8/Token/8TV.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 
 EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv9a_webos.jpg" group-title="MALAYSIA",TV9
-https://raw.githubusercontent.com/suaji/IPTV/master/M3U8/Token/TV9.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
 EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/Drama_Sangat_HQ.jpg" group-title="MALAYSIA",DRAMA SANGAT
-https://raw.githubusercontent.com/suaji/IPTV/master/M3U8/Token/DramaSangat.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 
 EXTINF:-1 tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg" group-title="MALAYSIA", HELLO TV
 
