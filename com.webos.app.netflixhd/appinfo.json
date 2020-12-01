@@ -1,0 +1,12 @@
+{
+	"id": "com.webos.app.netflixhd",
+	"title": "Netflix HD",
+	"vendor": "Suaji",
+	"type": "web",
+	"version": "0.0.1",
+	"main": "index.html",
+	"icon": "icon.png",
+	"iconColor":"#E42E28",
+	"disallowScrollingInMainFrame": false,
+	"uiRevision": 2
+}
