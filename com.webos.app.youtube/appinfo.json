@@ -1,6 +1,6 @@
 {
-	"id": "com.webos.app.google",
-	"title": "GOOGLE",
+	"id": "com.webos.app.youtube",
+	"title": "Youtube",
 	"vendor": "suaji",
 	"type": "web",
 	"version": "0.0.1",
