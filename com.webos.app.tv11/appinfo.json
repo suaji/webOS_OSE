@@ -1,11 +1,11 @@
 {
-	"id": "com.webos.app.tv3hd",
-	"title": "TV3 HD",
+	"id": "com.webos.app.tv11",
+	"title": "TV OKEY",
 	"vendor": "suaji",
 	"type": "web",
 	"version": "0.0.1",
 	"main": "index.html",
 	"icon": "icon.png",
-	"iconColor":"#E42E28",
+	"iconColor":"#ffffff",
 	"uiRevision": 2
 }
