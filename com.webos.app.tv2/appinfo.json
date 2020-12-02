@@ -1,11 +1,11 @@
 {
-	"id": "com.webos.app.tv3",
-	"title": "TV3",
+	"id": "com.webos.app.tv2",
+	"title": "TV2",
 	"vendor": "suaji",
 	"type": "web",
 	"version": "0.0.1",
 	"main": "index.html",
 	"icon": "icon.png",
-	"iconColor":"#ffffff",
+	"iconColor":"#E42E28",
 	"uiRevision": 2
 }
